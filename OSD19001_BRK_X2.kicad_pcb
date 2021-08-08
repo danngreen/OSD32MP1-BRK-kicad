@@ -356,7 +356,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" locked (layer "F.Cu")
     (tedit 0) (tstamp 0ffa5693-0bba-4489-9dc3-3f38a3b75908)
     (at 148.501099 118.973597 -90)
-    (fp_text reference "PRXD" (at -1.2065 0.4445 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PRXD1" (at -1.2065 0.4445 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 2b8c5118-ed9d-42dd-beee-31135d8cf80e)
     )
@@ -1992,7 +1992,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" locked (layer "F.Cu")
     (tedit 0) (tstamp 81d3216a-a8d6-431d-b392-39b2f4a744c2)
     (at 145.961099 118.973597 -90)
-    (fp_text reference "PGND" (at -1.235944 7.184487 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PGND1" (at -1.235944 7.184487 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 3c56ae67-02a6-4acb-b945-bf92d921826d)
     )
@@ -3266,7 +3266,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" locked (layer "F.Cu")
     (tedit 0) (tstamp bf990e4c-1f24-40cb-b3c2-6eaf18dc2f4e)
     (at 151.041099 118.973597 -90)
-    (fp_text reference "PTXD" (at 3.8735 -9.4615 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PTXD1" (at 3.8735 -9.4615 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp e1d7a980-d757-4f25-b363-c9f05e78272f)
     )

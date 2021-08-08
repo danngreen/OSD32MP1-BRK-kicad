@@ -306,7 +306,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 0aa11d81-5b66-48c8-ab51-5a27ceec7898)
     (at 129.451099 78.333597 90)
-    (fp_text reference "PB05" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB5" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp c560b4b3-6f74-41d3-94b5-2b47e9037ce1)
     )
@@ -385,7 +385,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 11d35017-59d6-4a5b-ba32-d29234c54614)
     (at 170.091099 75.793597 90)
-    (fp_text reference "PD04" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD4" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 95c3a88f-ba3b-4bc3-9b9d-c526e8ff8a10)
     )
@@ -444,7 +444,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 18c66d7a-6d29-48bb-af33-13c7671a61c5)
     (at 167.551099 70.713597 90)
-    (fp_text reference "PC02" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC2" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 5934a319-04f6-481a-af5f-368d40914939)
     )
@@ -524,7 +524,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 1c4a04d3-7fe1-4e9c-8d52-380f0f9fbe48)
     (at 167.551099 85.953597 90)
-    (fp_text reference "PC08" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC8" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 36956f25-b2c9-4cd6-a778-f1b4d9a69e2e)
     )
@@ -554,7 +554,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 1f39a87d-ea82-4d3d-8daa-a6336b31941e)
     (at 129.451099 83.413597 90)
-    (fp_text reference "PB07" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB7" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp c645a92e-3d59-4693-a555-2f2ab5122017)
     )
@@ -649,7 +649,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 2309fee2-f719-48e3-b18e-52e23d02177a)
     (at 126.911099 88.493597 90)
-    (fp_text reference "PA09" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA9" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp ec6436eb-25af-44bf-a48a-4cebde7684b6)
     )
@@ -679,7 +679,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 263edbfc-e467-4f5d-a79c-e51bc28e2e27)
     (at 167.551099 88.493597 90)
-    (fp_text reference "PC09" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC9" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 2ac7c7f8-3098-4012-adb1-391452de73f2)
     )
@@ -814,7 +814,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 32f63d25-4514-46d0-9aa7-c444eabd7d0f)
     (at 126.911099 75.793597 90)
-    (fp_text reference "PA04" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA4" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp c9f4eaa4-4d2a-48f1-a28c-1bfaea699eb4)
     )
@@ -903,7 +903,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 3860b0cd-b920-446a-95a0-bf9315079d1e)
     (at 129.451099 70.713597 90)
-    (fp_text reference "PB02" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB2" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 3d68dacc-acee-47ad-8f2a-f862713c22e7)
     )
@@ -918,7 +918,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 3af9fcbe-fcdb-4ac6-a958-c1d16ee28eb5)
     (at 126.911099 80.873597 90)
-    (fp_text reference "PA06" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA6" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp f7bc6a5d-a61a-4c8e-8a15-4a4bbd2f20ec)
     )
@@ -933,7 +933,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 3b78803a-4f06-4024-ad3f-115fa2871bb5)
     (at 170.091099 73.253597 90)
-    (fp_text reference "PD03" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD3" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 23d9c16c-90af-40b0-a9a7-1662688b14d8)
     )
@@ -1057,7 +1057,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 44854cec-47ab-46e1-b73f-5555caa45d10)
     (at 167.551099 75.793597 90)
-    (fp_text reference "PC04" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC4" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp a1f34d22-fa77-4712-ba7b-147f94d7c503)
     )
@@ -1340,7 +1340,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 51b06e0f-3079-4a9e-b49c-b0312514ce45)
     (at 129.451099 73.253597 90)
-    (fp_text reference "PB03" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB3" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 869392b8-b27c-4300-8e86-5d892e762402)
     )
@@ -1355,7 +1355,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 53bdefb4-6c5d-49cc-9d6b-f30e84eff549)
     (at 167.551099 73.253597 90)
-    (fp_text reference "PC03" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC3" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 0f2ef561-7318-4715-afab-d9b4deab51d1)
     )
@@ -1415,7 +1415,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 591daefb-af3a-419b-ad7d-ade60448e75a)
     (at 170.091099 83.413597 90)
-    (fp_text reference "PD07" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD7" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 383c7852-b32e-4495-a269-c2489987c773)
     )
@@ -1624,7 +1624,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 61211ee1-0c0f-466f-8fe8-780314062407)
     (at 126.911099 85.953597 90)
-    (fp_text reference "PA08" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA8" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 7974b68e-3689-4e02-a6b3-7791a5904dbb)
     )
@@ -1713,7 +1713,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 69c02063-0b2c-4469-989b-ff0ace228396)
     (at 167.551099 80.873597 90)
-    (fp_text reference "PC06" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC6" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 999698c3-270b-456c-bd60-653673c402e3)
     )
@@ -1867,7 +1867,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 7472de06-8f99-48a2-8bda-93470923c2b0)
     (at 170.091099 70.713597 90)
-    (fp_text reference "PD02" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD2" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp d4a7b849-fc69-4c2c-8f80-bd2435b3f877)
     )
@@ -1962,7 +1962,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 7d2b94e1-0ec0-4af8-ba31-ea7eab9113d9)
     (at 170.091099 88.493597 90)
-    (fp_text reference "PD09" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD9" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp ddb8c33e-523a-4fac-9b47-7a573ccf1946)
     )
@@ -2781,7 +2781,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 8d845af6-e546-4a61-8f2e-b35d95b46502)
     (at 170.091099 78.333597 90)
-    (fp_text reference "PD05" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD5" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 5ff76a30-c1e9-40ec-b80f-e2dc22db06b2)
     )
@@ -2846,7 +2846,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 94a03cc9-2279-4d6e-be6a-7370e3a1d565)
     (at 126.911099 68.173597)
-    (fp_text reference "PA01" (at -0.567007 -1.585478 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA1" (at -0.567007 -1.585478 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp ad213e2a-96f2-452d-b183-c445a42d9f03)
     )
@@ -2876,7 +2876,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 96eaeb5b-69a2-4dd2-8a9a-66b9c14c28db)
     (at 167.551099 78.333597 90)
-    (fp_text reference "PC05" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC5" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp e06504c5-6ac1-4135-9787-dbbbfaa83ea4)
     )
@@ -2891,7 +2891,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp 97f6de4a-dd97-4bbf-bd79-336bb8051424)
     (at 170.091099 85.953597 90)
-    (fp_text reference "PD08" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD8" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp b973a907-b8a1-4a35-a572-b6f7e4cc3373)
     )
@@ -3001,7 +3001,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp a0bd9753-ee10-40c3-8332-336a91ef4c6c)
     (at 129.451099 88.493597 90)
-    (fp_text reference "PB09" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB9" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp c1689d7a-ab64-451f-bf53-c04219390e93)
     )
@@ -3076,7 +3076,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp aa87cb18-c3cf-4cff-8b1b-cc4ba7da2db3)
     (at 129.451099 85.953597 90)
-    (fp_text reference "PB08" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB8" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp c8e1c845-5db0-4352-bd82-c37a0b5aff6b)
     )
@@ -3091,7 +3091,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp af039f66-893b-4e68-82aa-424e2ff3b7ce)
     (at 126.911099 70.713597 90)
-    (fp_text reference "PA02" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA2" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp d954d8c7-0cb1-400e-a091-f43b82c3c649)
     )
@@ -3426,7 +3426,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp c8c17361-a08c-46eb-9ff6-d725ba38ef12)
     (at 129.451099 68.173597)
-    (fp_text reference "PB01" (at -0.617807 -1.636278 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB1" (at -0.617807 -1.636278 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 8ea05d3e-8dae-4bfc-b7dc-d00f578b0d17)
     )
@@ -3646,7 +3646,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp d2fffb98-13d1-43c7-9ecb-85ff183f55f4)
     (at 126.911099 83.413597 90)
-    (fp_text reference "PA07" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA7" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 113c4c68-1ae4-40bc-8069-16f74d6f2cd5)
     )
@@ -3661,7 +3661,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp d668c1da-efd0-47f8-b764-04bc3c24f74f)
     (at 126.911099 78.333597 90)
-    (fp_text reference "PA05" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA5" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 68756a85-bfcd-4504-8b4c-84578e02051a)
     )
@@ -3751,7 +3751,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp def3d21b-8136-4c4b-accf-119a9a6c1fd9)
     (at 167.551099 68.173597)
-    (fp_text reference "PC01" (at -0.617807 -1.636278 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC1" (at -0.617807 -1.636278 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 64f1d38a-b08d-47f3-906d-9301e17c7e6f)
     )
@@ -3826,7 +3826,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp e79e83f8-6442-4179-a04f-7307b17aa06b)
     (at 170.091099 80.873597 90)
-    (fp_text reference "PD06" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD6" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 7258477c-5b68-49af-bcff-77243fa3c80f)
     )
@@ -3920,7 +3920,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp f2fe2eee-2a2e-4e11-9ef8-2f6f0fa02257)
     (at 129.451099 75.793597 90)
-    (fp_text reference "PB04" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB4" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 73a8fc48-2515-428f-9e3e-ae1f53c3010d)
     )
@@ -3935,7 +3935,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp f3fc77ac-bef2-44b2-9111-29f5c5bfd097)
     (at 170.091099 68.173597)
-    (fp_text reference "PD01" (at -0.567007 -1.585478 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PD1" (at -0.567007 -1.585478 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 931b6b5c-849e-4301-99e6-c8ace5ca3abc)
     )
@@ -4032,7 +4032,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp f846f653-8b84-4351-88ec-61e7e91a43b1)
     (at 129.451099 80.873597 90)
-    (fp_text reference "PB06" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PB6" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 629a0f85-d6cd-4a24-abd6-cce299d780e8)
     )
@@ -4047,7 +4047,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp f90b89dd-f887-45e6-891b-63f0b4c6edb9)
     (at 126.911099 73.253597 90)
-    (fp_text reference "PA03" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PA3" (at 1.585478 -0.567007 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 8affa711-c691-4770-840e-b331ae71a387)
     )
@@ -8058,7 +8058,7 @@
     (effects (font (size 1.524 1.524) (thickness 0.1524)) (justify left bottom))
   )
   (gr_text "${LAYER}" (at 139.386908 50.591285) (layer "User.6") (tstamp 3a154cbc-cc9d-4556-b757-b67b9a53daf2)
-    (effects (font (size 1.5875 1.5875) (thickness 0.254)) (justify left bottom))
+    (effects (font (size 1.5875 1.5875) (thickness 0.254)) (justify bottom))
   )
   (gr_text "RoHS COMPLIANT ASSEMBLY ONLY" (at 125.641099 146.405597) (layer "User.6") (tstamp 44b350cb-0b7e-40c7-bd47-9ecd0f51498c)
     (effects (font (size 1.27 1.27) (thickness 0.2032)) (justify bottom))

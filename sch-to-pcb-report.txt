@@ -1,0 +1,1301 @@
+
+
+Add net /SH_OSD19001_BREAKOUTS/ANA0.
+Add net /SH_OSD19001_BREAKOUTS/ANA1.
+Add net /SH_OSD19001_BREAKOUTS/PA1.
+Add net /SH_OSD19001_BREAKOUTS/PA14.
+Add net /SH_OSD19001_BREAKOUTS/PA15.
+Add net /SH_OSD19001_BREAKOUTS/PA2.
+Add net /SH_OSD19001_BREAKOUTS/PA3.
+Add net /SH_OSD19001_BREAKOUTS/PA4.
+Add net /SH_OSD19001_BREAKOUTS/PA5.
+Add net /SH_OSD19001_BREAKOUTS/PA6.
+Add net /SH_OSD19001_BREAKOUTS/PA7.
+Add net /SH_OSD19001_BREAKOUTS/PA9.
+Add net /SH_OSD19001_BREAKOUTS/PB0.
+Add net /SH_OSD19001_BREAKOUTS/PB1.
+Add net /SH_OSD19001_BREAKOUTS/PB10.
+Add net /SH_OSD19001_BREAKOUTS/PB11.
+Add net /SH_OSD19001_BREAKOUTS/PB12.
+Add net /SH_OSD19001_BREAKOUTS/PB13.
+Add net /SH_OSD19001_BREAKOUTS/PB14.
+Add net /SH_OSD19001_BREAKOUTS/PB15.
+Add net /SH_OSD19001_BREAKOUTS/PB3.
+Add net /SH_OSD19001_BREAKOUTS/PB4.
+Add net /SH_OSD19001_BREAKOUTS/PB5.
+Add net /SH_OSD19001_BREAKOUTS/PB6.
+Add net /SH_OSD19001_BREAKOUTS/PB7.
+Add net /SH_OSD19001_BREAKOUTS/PB8.
+Add net /SH_OSD19001_BREAKOUTS/PB9.
+Add net /SH_OSD19001_BREAKOUTS/PC0.
+Add net /SH_OSD19001_BREAKOUTS/PC1.
+Add net /SH_OSD19001_BREAKOUTS/PC2.
+Add net /SH_OSD19001_BREAKOUTS/PC3.
+Add net /SH_OSD19001_BREAKOUTS/PC4.
+Add net /SH_OSD19001_BREAKOUTS/PC5.
+Add net /SH_OSD19001_BREAKOUTS/PC7.
+Add net /SH_OSD19001_BREAKOUTS/PD0.
+Add net /SH_OSD19001_BREAKOUTS/PD1.
+Add net /SH_OSD19001_BREAKOUTS/PD10.
+Add net /SH_OSD19001_BREAKOUTS/PD11.
+Add net /SH_OSD19001_BREAKOUTS/PD12.
+Add net /SH_OSD19001_BREAKOUTS/PD13.
+Add net /SH_OSD19001_BREAKOUTS/PD14.
+Add net /SH_OSD19001_BREAKOUTS/PD15.
+Add net /SH_OSD19001_BREAKOUTS/PD3.
+Add net /SH_OSD19001_BREAKOUTS/PD4.
+Add net /SH_OSD19001_BREAKOUTS/PD5.
+Add net /SH_OSD19001_BREAKOUTS/PD6.
+Add net /SH_OSD19001_BREAKOUTS/PD7.
+Add net /SH_OSD19001_BREAKOUTS/PD8.
+Add net /SH_OSD19001_BREAKOUTS/PD9.
+Add net /SH_OSD19001_BREAKOUTS/PE0.
+Add net /SH_OSD19001_BREAKOUTS/PE1.
+Add net /SH_OSD19001_BREAKOUTS/PE11.
+Add net /SH_OSD19001_BREAKOUTS/PE12.
+Add net /SH_OSD19001_BREAKOUTS/PE13.
+Add net /SH_OSD19001_BREAKOUTS/PE14.
+Add net /SH_OSD19001_BREAKOUTS/PE15.
+Add net /SH_OSD19001_BREAKOUTS/PE2.
+Add net /SH_OSD19001_BREAKOUTS/PE3.
+Add net /SH_OSD19001_BREAKOUTS/PE5.
+Add net /SH_OSD19001_BREAKOUTS/PE6.
+Add net /SH_OSD19001_BREAKOUTS/PF0.
+Add net /SH_OSD19001_BREAKOUTS/PF1.
+Add net /SH_OSD19001_BREAKOUTS/PF11.
+Add net /SH_OSD19001_BREAKOUTS/PF12.
+Add net /SH_OSD19001_BREAKOUTS/PF13.
+Add net /SH_OSD19001_BREAKOUTS/PF14.
+Add net /SH_OSD19001_BREAKOUTS/PF15.
+Add net /SH_OSD19001_BREAKOUTS/PF3.
+Add net /SH_OSD19001_BREAKOUTS/PF4.
+Add net /SH_OSD19001_BREAKOUTS/PF5.
+Add net /SH_OSD19001_BREAKOUTS/PF6.
+Add net /SH_OSD19001_BREAKOUTS/PG0.
+Add net /SH_OSD19001_BREAKOUTS/PG1.
+Add net /SH_OSD19001_BREAKOUTS/PG12.
+Add net /SH_OSD19001_BREAKOUTS/PG13.
+Add net /SH_OSD19001_BREAKOUTS/PG14.
+Add net /SH_OSD19001_BREAKOUTS/PG15.
+Add net /SH_OSD19001_BREAKOUTS/PG2.
+Add net /SH_OSD19001_BREAKOUTS/PG3.
+Add net /SH_OSD19001_BREAKOUTS/PG4.
+Add net /SH_OSD19001_BREAKOUTS/PG5.
+Add net /SH_OSD19001_BREAKOUTS/PG6.
+Add net /SH_OSD19001_BREAKOUTS/PH10.
+Add net /SH_OSD19001_BREAKOUTS/PH11.
+Add net /SH_OSD19001_BREAKOUTS/PH12.
+Add net /SH_OSD19001_BREAKOUTS/PH13.
+Add net /SH_OSD19001_BREAKOUTS/PH14.
+Add net /SH_OSD19001_BREAKOUTS/PH15.
+Add net /SH_OSD19001_BREAKOUTS/PH4.
+Add net /SH_OSD19001_BREAKOUTS/PH5.
+Add net /SH_OSD19001_BREAKOUTS/PH8.
+Add net /SH_OSD19001_BREAKOUTS/PH9.
+Add net /SH_OSD19001_BREAKOUTS/PI0.
+Add net /SH_OSD19001_BREAKOUTS/PI1.
+Add net /SH_OSD19001_BREAKOUTS/PI2.
+Add net /SH_OSD19001_BREAKOUTS/PI3.
+Add net /SH_OSD19001_BREAKOUTS/PI4.
+Add net /SH_OSD19001_BREAKOUTS/PI5.
+Add net /SH_OSD19001_BREAKOUTS/PI6.
+Add net /SH_OSD19001_BREAKOUTS/PI7.
+Add net /SH_OSD19001_BREAKOUTS/PZ0.
+Add net /SH_OSD19001_BREAKOUTS/PZ1.
+Add net /SH_OSD19001_BREAKOUTS/PZ2.
+Add net /SH_OSD19001_BREAKOUTS/PZ3.
+Add net /SH_OSD19001_BREAKOUTS/PZ4.
+Add net /SH_OSD19001_BREAKOUTS/PZ5.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Add net /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Add net /SH_OSD19001_BREAKOUTS/UART4_RX.
+Add net /SH_OSD19001_BREAKOUTS/UART4_TX.
+Add net /SH_OSD19001_BREAKOUTS/USB1_D_N.
+Add net /SH_OSD19001_BREAKOUTS/USB1_D_P.
+Add net /SH_OSD19001_BREAKOUTS/\LED1_GRN.
+Add net /SH_OSD19001_BREAKOUTS/\LED1_RED.
+Add net /SH_OSD19001_BREAKOUTS/\LED2_GRN.
+Add net /SH_OSD19001_BREAKOUTS/\LED2_RED.
+Add net /SH_OSD19001_BREAKOUTS/\PONKEY.
+Add net /SH_OSD19001_BREAKOUTS/\RESET.
+Add net /SH_OSD19001_BREAKOUTS/\SDDET.
+Add net /SH_OSD19001_CORE/BOOT0.
+Add net /SH_OSD19001_CORE/BOOT1.
+Add net /SH_OSD19001_CORE/BOOT2.
+Add net /SH_OSD19001_CORE/EEPROM_WP.
+Add net /SH_OSD19001_CORE/SWCLK/TCK.
+Add net /SH_OSD19001_CORE/SWDIO/TMS.
+Add net /SH_OSD19001_CORE/SWO/TDO.
+Add net /SH_OSD19001_CORE/TDI.
+Add net /SH_OSD19001_CORE/\TRST.
+Add net /SH_OSD19001_USB/USB2_D_N.
+Add net /SH_OSD19001_USB/USB2_D_P.
+Add net /SH_OSD19001_USB/VWALLP.
+Add net Net-(C10-Pad2).
+Add net Net-(C3-Pad1).
+Add net Net-(C4-Pad1).
+Add net Net-(D1-Pad1).
+Add net Net-(D1-Pad2).
+Add net Net-(D2-Pad1).
+Add net Net-(D2-Pad2).
+Add net Net-(D3-Pad1).
+Add net Net-(D3-Pad2).
+Add net Net-(R8-Pad1).
+Add net Net-(U1-PadK1).
+Add net Net-(U1-PadM1).
+Add net unconnected-(TP1-Pad7).
+Add net unconnected-(U1-PadA3).
+Add net unconnected-(U1-PadB13).
+Add net unconnected-(U1-PadB4).
+Add net unconnected-(U1-PadB5).
+Add net unconnected-(U1-PadC13).
+Add net unconnected-(U1-PadC18).
+Add net unconnected-(U1-PadC4).
+Add net unconnected-(U1-PadC5).
+Add net unconnected-(U1-PadD10).
+Add net unconnected-(U1-PadD16).
+Add net unconnected-(U1-PadD17).
+Add net unconnected-(U1-PadD18).
+Add net unconnected-(U1-PadD5).
+Add net unconnected-(U1-PadD6).
+Add net unconnected-(U1-PadD7).
+Add net unconnected-(U1-PadD8).
+Add net unconnected-(U1-PadD9).
+Add net unconnected-(U1-PadE16).
+Add net unconnected-(U1-PadE17).
+Add net unconnected-(U1-PadG16).
+Add net unconnected-(U1-PadG17).
+Add net unconnected-(U1-PadG18).
+Add net unconnected-(U1-PadG8).
+Add net unconnected-(U1-PadH12).
+Add net unconnected-(U1-PadH16).
+Add net unconnected-(U1-PadH4).
+Add net unconnected-(U1-PadJ12).
+Add net unconnected-(U1-PadJ2).
+Add net unconnected-(U1-PadJ4).
+Add net unconnected-(U1-PadK12).
+Add net unconnected-(U1-PadK6).
+Add net unconnected-(U1-PadK8).
+Add net unconnected-(U1-PadK9).
+Add net unconnected-(U1-PadL12).
+Add net unconnected-(U1-PadL16).
+Add net unconnected-(U1-PadL17).
+Add net unconnected-(U1-PadL18).
+Add net unconnected-(U1-PadL3).
+Add net unconnected-(U1-PadL6).
+Add net unconnected-(U1-PadM16).
+Add net unconnected-(U1-PadM17).
+Add net unconnected-(U1-PadM6).
+Add net unconnected-(U1-PadN16).
+Add net unconnected-(U1-PadN17).
+Add net unconnected-(U1-PadN18).
+Add net unconnected-(U1-PadN4).
+Add net unconnected-(U1-PadP10).
+Add net unconnected-(U1-PadP16).
+Add net unconnected-(U1-PadP17).
+Add net unconnected-(U1-PadP18).
+Add net unconnected-(U1-PadP9).
+Add net unconnected-(U1-PadR10).
+Add net unconnected-(U1-PadR17).
+Add net unconnected-(U1-PadR18).
+Add net unconnected-(U1-PadR4).
+Add net unconnected-(U1-PadR5).
+Add net unconnected-(U1-PadR6).
+Add net unconnected-(U1-PadR7).
+Add net unconnected-(U1-PadR8).
+Add net unconnected-(U1-PadR9).
+Add net unconnected-(U1-PadT17).
+Add net unconnected-(U1-PadT18).
+Connected TP1 pin 7 to unconnected-(TP1-Pad7).
+Connected U1 pin A3 to unconnected-(U1-PadA3).
+Connected U1 pin B13 to unconnected-(U1-PadB13).
+Connected U1 pin B4 to unconnected-(U1-PadB4).
+Connected U1 pin B5 to unconnected-(U1-PadB5).
+Connected U1 pin C13 to unconnected-(U1-PadC13).
+Connected U1 pin C18 to unconnected-(U1-PadC18).
+Connected U1 pin C4 to unconnected-(U1-PadC4).
+Connected U1 pin C5 to unconnected-(U1-PadC5).
+Connected U1 pin D10 to unconnected-(U1-PadD10).
+Connected U1 pin D16 to unconnected-(U1-PadD16).
+Connected U1 pin D17 to unconnected-(U1-PadD17).
+Connected U1 pin D18 to unconnected-(U1-PadD18).
+Connected U1 pin D5 to unconnected-(U1-PadD5).
+Connected U1 pin D6 to unconnected-(U1-PadD6).
+Connected U1 pin D7 to unconnected-(U1-PadD7).
+Connected U1 pin D8 to unconnected-(U1-PadD8).
+Connected U1 pin D9 to unconnected-(U1-PadD9).
+Connected U1 pin E16 to unconnected-(U1-PadE16).
+Connected U1 pin E17 to unconnected-(U1-PadE17).
+Connected U1 pin G16 to unconnected-(U1-PadG16).
+Connected U1 pin G17 to unconnected-(U1-PadG17).
+Connected U1 pin G18 to unconnected-(U1-PadG18).
+Connected U1 pin G8 to unconnected-(U1-PadG8).
+Connected U1 pin H12 to unconnected-(U1-PadH12).
+Connected U1 pin H16 to unconnected-(U1-PadH16).
+Connected U1 pin H4 to unconnected-(U1-PadH4).
+Connected U1 pin J12 to unconnected-(U1-PadJ12).
+Connected U1 pin J2 to unconnected-(U1-PadJ2).
+Connected U1 pin J4 to unconnected-(U1-PadJ4).
+Connected U1 pin K12 to unconnected-(U1-PadK12).
+Connected U1 pin K6 to unconnected-(U1-PadK6).
+Connected U1 pin K8 to unconnected-(U1-PadK8).
+Connected U1 pin K9 to unconnected-(U1-PadK9).
+Connected U1 pin L12 to unconnected-(U1-PadL12).
+Connected U1 pin L16 to unconnected-(U1-PadL16).
+Connected U1 pin L17 to unconnected-(U1-PadL17).
+Connected U1 pin L18 to unconnected-(U1-PadL18).
+Connected U1 pin L3 to unconnected-(U1-PadL3).
+Connected U1 pin L6 to unconnected-(U1-PadL6).
+Connected U1 pin M16 to unconnected-(U1-PadM16).
+Connected U1 pin M17 to unconnected-(U1-PadM17).
+Connected U1 pin M6 to unconnected-(U1-PadM6).
+Connected U1 pin N16 to unconnected-(U1-PadN16).
+Connected U1 pin N17 to unconnected-(U1-PadN17).
+Connected U1 pin N18 to unconnected-(U1-PadN18).
+Connected U1 pin N4 to unconnected-(U1-PadN4).
+Connected U1 pin P10 to unconnected-(U1-PadP10).
+Connected U1 pin P16 to unconnected-(U1-PadP16).
+Connected U1 pin P17 to unconnected-(U1-PadP17).
+Connected U1 pin P18 to unconnected-(U1-PadP18).
+Connected U1 pin P9 to unconnected-(U1-PadP9).
+Connected U1 pin R10 to unconnected-(U1-PadR10).
+Connected U1 pin R17 to unconnected-(U1-PadR17).
+Connected U1 pin R18 to unconnected-(U1-PadR18).
+Connected U1 pin R4 to unconnected-(U1-PadR4).
+Connected U1 pin R5 to unconnected-(U1-PadR5).
+Connected U1 pin R6 to unconnected-(U1-PadR6).
+Connected U1 pin R7 to unconnected-(U1-PadR7).
+Connected U1 pin R8 to unconnected-(U1-PadR8).
+Connected U1 pin R9 to unconnected-(U1-PadR9).
+Connected U1 pin T17 to unconnected-(U1-PadT17).
+Connected U1 pin T18 to unconnected-(U1-PadT18).
+Info: Processing symbol 'C10:LP_0603_HIGH'.
+Info: Processing symbol 'C1:LP_0603_HIGH'.
+Info: Processing symbol 'C2:LP_0603_HIGH'.
+Info: Processing symbol 'C3:LP_0402_HIGH'.
+Info: Processing symbol 'C4:LP_0402_HIGH'.
+Info: Processing symbol 'C5:LP_0603_HIGH'.
+Info: Processing symbol 'C6:LP_0603_HIGH'.
+Info: Processing symbol 'C7:LP_0603_HIGH'.
+Info: Processing symbol 'C8:LP_EIAB'.
+Info: Processing symbol 'C9:LP_EIAB'.
+Info: Processing symbol 'D1:WURTH_DUAL_0606'.
+Info: Processing symbol 'D2:WURTH_DUAL_0606'.
+Info: Processing symbol 'D3:DFN6_6L_ST'.
+Info: Processing symbol 'FID1:FID_ROUND_40_TOP'.
+Info: Processing symbol 'FID2:FID_ROUND_40_TOP'.
+Info: Processing symbol 'FID3:FID_ROUND_40_TOP'.
+Info: Processing symbol 'J1:CUI_UJ2-MIBH2-4-SMT'.
+Info: Processing symbol 'J2:MOLEX_104031-0811'.
+Info: Processing symbol 'L1:LP_0603_IND'.
+Info: Processing symbol 'PA10:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA11:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA12:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA13:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA14:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA15:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA16:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA17:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA18:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA19:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA20:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA21:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA22:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA23:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA24:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA25:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA26:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA27:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA28:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA29:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA2:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA30:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA3:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA4:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA5:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA6:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA7:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA8:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PA9:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB10:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB11:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB12:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB13:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB14:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB15:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB16:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB17:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB18:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB19:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB20:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB21:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB22:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB23:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB24:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB25:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB26:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB27:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB28:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB29:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB2:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB30:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB3:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB4:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB5:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB6:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB7:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB8:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PB9:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC10:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC11:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC12:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC13:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC14:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC15:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC16:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC17:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC18:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC19:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC20:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC21:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC22:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC23:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC24:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC25:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC26:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC27:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC28:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC29:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC2:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC30:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC3:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC4:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC5:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC6:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC7:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC8:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PC9:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD10:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD11:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD12:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD13:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD14:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD15:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD16:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD17:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD18:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD19:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD20:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD21:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD22:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD23:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD24:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD25:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD26:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD27:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD28:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD29:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD2:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD30:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD3:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD4:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD5:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD6:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD7:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD8:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PD9:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PGND1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PRXD1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PTXD1:LP_TESTPOINT_TH'.
+Info: Processing symbol 'PZ4:LP_TESTPOINT_SMT'.
+Info: Processing symbol 'PZ5:LP_TESTPOINT_SMT'.
+Info: Processing symbol 'R10:LP_0402_LOW'.
+Info: Processing symbol 'R11:LP_0402_LOW'.
+Info: Processing symbol 'R12:LP_0402_LOW'.
+Info: Processing symbol 'R13:LP_0603_LOW'.
+Info: Processing symbol 'R1:LP_0402_LOW'.
+Info: Processing symbol 'R2:LP_0402_LOW'.
+Info: Processing symbol 'R3:LP_0402_LOW'.
+Info: Processing symbol 'R4:LP_0402_LOW'.
+Info: Processing symbol 'R5:LP_0402_LOW'.
+Info: Processing symbol 'R6:LP_0402_LOW'.
+Info: Processing symbol 'R7:LP_0402_LOW'.
+Info: Processing symbol 'R8:LP_0402_LOW'.
+Info: Processing symbol 'R9:LP_0402_LOW'.
+Info: Processing symbol 'S1:C&K_PTS810'.
+Info: Processing symbol 'S2:C&K_TDA04'.
+Info: Processing symbol 'TP1:TC2050_SITE_NL'.
+Info: Processing symbol 'U1:BGA_OCTAVO_SIP_OSD32MP157C'.
+Info: Processing symbol 'Y1:NDK_CRYSTAL_1.5X3.2'.
+Info: Total warnings: 0, errors: 0.
+Reconnected C10 pin 2 from NetC10_2 to Net-(C10-Pad2).
+Reconnected C3 pin 1 from NetC3_1 to Net-(C3-Pad1).
+Reconnected C4 pin 1 from NetC4_1 to Net-(C4-Pad1).
+Reconnected C5 pin 2 from VWALLP to /SH_OSD19001_USB/VWALLP.
+Reconnected D1 pin 1 from NetD1_1 to Net-(D1-Pad1).
+Reconnected D1 pin 2 from NetD1_2 to Net-(D1-Pad2).
+Reconnected D2 pin 1 from NetD2_1 to Net-(D2-Pad1).
+Reconnected D2 pin 2 from NetD2_2 to Net-(D2-Pad2).
+Reconnected D3 pin 1 from NetD3_1 to Net-(D3-Pad1).
+Reconnected D3 pin 2 from NetD3_2 to Net-(D3-Pad2).
+Reconnected D3 pin 5 from USB2_D_P to /SH_OSD19001_USB/USB2_D_P.
+Reconnected D3 pin 6 from USB2_D_N to /SH_OSD19001_USB/USB2_D_N.
+Reconnected J1 pin 1 from VWALLP to /SH_OSD19001_USB/VWALLP.
+Reconnected J1 pin 2 from NetD3_1 to Net-(D3-Pad1).
+Reconnected J1 pin 3 from NetD3_2 to Net-(D3-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J1 pin 6 from NetC10_2 to Net-(C10-Pad2).
+Reconnected J2 pin 1 from SDMMC1_D2 to /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Reconnected J2 pin 11 from \SDDET to /SH_OSD19001_BREAKOUTS/\SDDET.
+Reconnected J2 pin 2 from SDMMC1_D3 to /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Reconnected J2 pin 3 from SDMMC1_CMD to /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Reconnected J2 pin 5 from SDMMC1_CK to /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Reconnected J2 pin 7 from SDMMC1_D0 to /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Reconnected J2 pin 8 from SDMMC1_D1 to /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Reconnected L1 pin 1 from VWALLP to /SH_OSD19001_USB/VWALLP.
+Reconnected PA10 pin 1 from PH9 to /SH_OSD19001_BREAKOUTS/PH9.
+Reconnected PA11 pin 1 from PE14 to /SH_OSD19001_BREAKOUTS/PE14.
+Reconnected PA12 pin 1 from PE11 to /SH_OSD19001_BREAKOUTS/PE11.
+Reconnected PA13 pin 1 from PH8 to /SH_OSD19001_BREAKOUTS/PH8.
+Reconnected PA14 pin 1 from PD10 to /SH_OSD19001_BREAKOUTS/PD10.
+Reconnected PA15 pin 1 from PH5 to /SH_OSD19001_BREAKOUTS/PH5.
+Reconnected PA16 pin 1 from PF4 to /SH_OSD19001_BREAKOUTS/PF4.
+Reconnected PA17 pin 1 from PF5 to /SH_OSD19001_BREAKOUTS/PF5.
+Reconnected PA18 pin 1 from PF1 to /SH_OSD19001_BREAKOUTS/PF1.
+Reconnected PA19 pin 1 from PG15 to /SH_OSD19001_BREAKOUTS/PG15.
+Reconnected PA2 pin 1 from ANA0 to /SH_OSD19001_BREAKOUTS/ANA0.
+Reconnected PA20 pin 1 from PD4 to /SH_OSD19001_BREAKOUTS/PD4.
+Reconnected PA21 pin 1 from PD6 to /SH_OSD19001_BREAKOUTS/PD6.
+Reconnected PA22 pin 1 from PD0 to /SH_OSD19001_BREAKOUTS/PD0.
+Reconnected PA23 pin 1 from PB7 to /SH_OSD19001_BREAKOUTS/PB7.
+Reconnected PA24 pin 1 from PE3 to /SH_OSD19001_BREAKOUTS/PE3.
+Reconnected PA25 pin 1 from PB15 to /SH_OSD19001_BREAKOUTS/PB15.
+Reconnected PA26 pin 1 from PB3 to /SH_OSD19001_BREAKOUTS/PB3.
+Reconnected PA27 pin 1 from PE5 to /SH_OSD19001_BREAKOUTS/PE5.
+Reconnected PA28 pin 1 from PB14 to /SH_OSD19001_BREAKOUTS/PB14.
+Reconnected PA3 pin 1 from PI6 to /SH_OSD19001_BREAKOUTS/PI6.
+Reconnected PA4 pin 1 from PI5 to /SH_OSD19001_BREAKOUTS/PI5.
+Reconnected PA5 pin 1 from PI0 to /SH_OSD19001_BREAKOUTS/PI0.
+Reconnected PA6 pin 1 from PI1 to /SH_OSD19001_BREAKOUTS/PI1.
+Reconnected PA7 pin 1 from PH14 to /SH_OSD19001_BREAKOUTS/PH14.
+Reconnected PA8 pin 1 from PH13 to /SH_OSD19001_BREAKOUTS/PH13.
+Reconnected PA9 pin 1 from PH11 to /SH_OSD19001_BREAKOUTS/PH11.
+Reconnected PB10 pin 1 from PE15 to /SH_OSD19001_BREAKOUTS/PE15.
+Reconnected PB11 pin 1 from PE12 to /SH_OSD19001_BREAKOUTS/PE12.
+Reconnected PB12 pin 1 from PH4 to /SH_OSD19001_BREAKOUTS/PH4.
+Reconnected PB13 pin 1 from PE13 to /SH_OSD19001_BREAKOUTS/PE13.
+Reconnected PB14 pin 1 from PE0 to /SH_OSD19001_BREAKOUTS/PE0.
+Reconnected PB15 pin 1 from PE1 to /SH_OSD19001_BREAKOUTS/PE1.
+Reconnected PB16 pin 1 from PF0 to /SH_OSD19001_BREAKOUTS/PF0.
+Reconnected PB17 pin 1 from PE6 to /SH_OSD19001_BREAKOUTS/PE6.
+Reconnected PB18 pin 1 from PD7 to /SH_OSD19001_BREAKOUTS/PD7.
+Reconnected PB19 pin 1 from PD5 to /SH_OSD19001_BREAKOUTS/PD5.
+Reconnected PB2 pin 1 from ANA1 to /SH_OSD19001_BREAKOUTS/ANA1.
+Reconnected PB20 pin 1 from PD1 to /SH_OSD19001_BREAKOUTS/PD1.
+Reconnected PB21 pin 1 from PD3 to /SH_OSD19001_BREAKOUTS/PD3.
+Reconnected PB22 pin 1 from PA9 to /SH_OSD19001_BREAKOUTS/PA9.
+Reconnected PB23 pin 1 from PB9 to /SH_OSD19001_BREAKOUTS/PB9.
+Reconnected PB24 pin 1 from PB8 to /SH_OSD19001_BREAKOUTS/PB8.
+Reconnected PB25 pin 1 from PB4 to /SH_OSD19001_BREAKOUTS/PB4.
+Reconnected PB26 pin 1 from PG6 to /SH_OSD19001_BREAKOUTS/PG6.
+Reconnected PB27 pin 1 from PA15 to /SH_OSD19001_BREAKOUTS/PA15.
+Reconnected PB28 pin 1 from PC7 to /SH_OSD19001_BREAKOUTS/PC7.
+Reconnected PB29 pin 1 from USB1_D_P to /SH_OSD19001_BREAKOUTS/USB1_D_P.
+Reconnected PB3 pin 1 from PI7 to /SH_OSD19001_BREAKOUTS/PI7.
+Reconnected PB30 pin 1 from USB1_D_N to /SH_OSD19001_BREAKOUTS/USB1_D_N.
+Reconnected PB4 pin 1 from PI4 to /SH_OSD19001_BREAKOUTS/PI4.
+Reconnected PB5 pin 1 from PI3 to /SH_OSD19001_BREAKOUTS/PI3.
+Reconnected PB6 pin 1 from PI2 to /SH_OSD19001_BREAKOUTS/PI2.
+Reconnected PB7 pin 1 from PH15 to /SH_OSD19001_BREAKOUTS/PH15.
+Reconnected PB8 pin 1 from PH12 to /SH_OSD19001_BREAKOUTS/PH12.
+Reconnected PB9 pin 1 from PH10 to /SH_OSD19001_BREAKOUTS/PH10.
+Reconnected PC10 pin 1 from PF14 to /SH_OSD19001_BREAKOUTS/PF14.
+Reconnected PC11 pin 1 from PB1 to /SH_OSD19001_BREAKOUTS/PB1.
+Reconnected PC12 pin 1 from PZ1 to /SH_OSD19001_BREAKOUTS/PZ1.
+Reconnected PC13 pin 1 from PZ3 to /SH_OSD19001_BREAKOUTS/PZ3.
+Reconnected PC14 pin 1 from \PONKEY to /SH_OSD19001_BREAKOUTS/\PONKEY.
+Reconnected PC19 pin 1 from PC5 to /SH_OSD19001_BREAKOUTS/PC5.
+Reconnected PC2 pin 1 from PD9 to /SH_OSD19001_BREAKOUTS/PD9.
+Reconnected PC20 pin 1 from PA1 to /SH_OSD19001_BREAKOUTS/PA1.
+Reconnected PC21 pin 1 from PC4 to /SH_OSD19001_BREAKOUTS/PC4.
+Reconnected PC22 pin 1 from PB10 to /SH_OSD19001_BREAKOUTS/PB10.
+Reconnected PC23 pin 1 from PB12 to /SH_OSD19001_BREAKOUTS/PB12.
+Reconnected PC24 pin 1 from PC1 to /SH_OSD19001_BREAKOUTS/PC1.
+Reconnected PC25 pin 1 from PA4 to /SH_OSD19001_BREAKOUTS/PA4.
+Reconnected PC26 pin 1 from PA6 to /SH_OSD19001_BREAKOUTS/PA6.
+Reconnected PC27 pin 1 from PD11 to /SH_OSD19001_BREAKOUTS/PD11.
+Reconnected PC28 pin 1 from PF6 to /SH_OSD19001_BREAKOUTS/PF6.
+Reconnected PC29 pin 1 from PD12 to /SH_OSD19001_BREAKOUTS/PD12.
+Reconnected PC3 pin 1 from PD15 to /SH_OSD19001_BREAKOUTS/PD15.
+Reconnected PC30 pin 1 from PB6 to /SH_OSD19001_BREAKOUTS/PB6.
+Reconnected PC4 pin 1 from PD14 to /SH_OSD19001_BREAKOUTS/PD14.
+Reconnected PC5 pin 1 from PF3 to /SH_OSD19001_BREAKOUTS/PF3.
+Reconnected PC6 pin 1 from PC3 to /SH_OSD19001_BREAKOUTS/PC3.
+Reconnected PC7 pin 1 from PG13 to /SH_OSD19001_BREAKOUTS/PG13.
+Reconnected PC8 pin 1 from PG1 to /SH_OSD19001_BREAKOUTS/PG1.
+Reconnected PC9 pin 1 from PG4 to /SH_OSD19001_BREAKOUTS/PG4.
+Reconnected PD10 pin 1 from PB11 to /SH_OSD19001_BREAKOUTS/PB11.
+Reconnected PD11 pin 1 from PF13 to /SH_OSD19001_BREAKOUTS/PF13.
+Reconnected PD12 pin 1 from PZ0 to /SH_OSD19001_BREAKOUTS/PZ0.
+Reconnected PD13 pin 1 from PZ2 to /SH_OSD19001_BREAKOUTS/PZ2.
+Reconnected PD14 pin 1 from PC2 to /SH_OSD19001_BREAKOUTS/PC2.
+Reconnected PD15 pin 1 from PG0 to /SH_OSD19001_BREAKOUTS/PG0.
+Reconnected PD16 pin 1 from PG3 to /SH_OSD19001_BREAKOUTS/PG3.
+Reconnected PD17 pin 1 from PF15 to /SH_OSD19001_BREAKOUTS/PF15.
+Reconnected PD18 pin 1 from PF12 to /SH_OSD19001_BREAKOUTS/PF12.
+Reconnected PD19 pin 1 from PG5 to /SH_OSD19001_BREAKOUTS/PG5.
+Reconnected PD2 pin 1 from \RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected PD20 pin 1 from PB5 to /SH_OSD19001_BREAKOUTS/PB5.
+Reconnected PD21 pin 1 from PB0 to /SH_OSD19001_BREAKOUTS/PB0.
+Reconnected PD22 pin 1 from PA7 to /SH_OSD19001_BREAKOUTS/PA7.
+Reconnected PD23 pin 1 from PB13 to /SH_OSD19001_BREAKOUTS/PB13.
+Reconnected PD24 pin 1 from PA2 to /SH_OSD19001_BREAKOUTS/PA2.
+Reconnected PD25 pin 1 from PA5 to /SH_OSD19001_BREAKOUTS/PA5.
+Reconnected PD26 pin 1 from PC0 to /SH_OSD19001_BREAKOUTS/PC0.
+Reconnected PD27 pin 1 from PF11 to /SH_OSD19001_BREAKOUTS/PF11.
+Reconnected PD28 pin 1 from PD13 to /SH_OSD19001_BREAKOUTS/PD13.
+Reconnected PD3 pin 1 from PD8 to /SH_OSD19001_BREAKOUTS/PD8.
+Reconnected PD4 pin 1 from PA14 to /SH_OSD19001_BREAKOUTS/PA14.
+Reconnected PD5 pin 1 from PG12 to /SH_OSD19001_BREAKOUTS/PG12.
+Reconnected PD6 pin 1 from PA3 to /SH_OSD19001_BREAKOUTS/PA3.
+Reconnected PD7 pin 1 from PE2 to /SH_OSD19001_BREAKOUTS/PE2.
+Reconnected PD8 pin 1 from PG14 to /SH_OSD19001_BREAKOUTS/PG14.
+Reconnected PD9 pin 1 from PG2 to /SH_OSD19001_BREAKOUTS/PG2.
+Reconnected PRXD1 pin 1 from UART4_RX to /SH_OSD19001_BREAKOUTS/UART4_RX.
+Reconnected PTXD1 pin 1 from UART4_TX to /SH_OSD19001_BREAKOUTS/UART4_TX.
+Reconnected PZ4 pin 1 from PZ4 to /SH_OSD19001_BREAKOUTS/PZ4.
+Reconnected PZ5 pin 1 from PZ5 to /SH_OSD19001_BREAKOUTS/PZ5.
+Reconnected R1 pin 1 from SDMMC1_D0 to /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Reconnected R10 pin 1 from \LED2_GRN to /SH_OSD19001_BREAKOUTS/\LED2_GRN.
+Reconnected R10 pin 2 from NetD2_2 to Net-(D2-Pad2).
+Reconnected R11 pin 1 from \LED1_RED to /SH_OSD19001_BREAKOUTS/\LED1_RED.
+Reconnected R11 pin 2 from NetD1_1 to Net-(D1-Pad1).
+Reconnected R12 pin 1 from \LED1_GRN to /SH_OSD19001_BREAKOUTS/\LED1_GRN.
+Reconnected R12 pin 2 from NetD1_2 to Net-(D1-Pad2).
+Reconnected R13 pin 2 from NetC10_2 to Net-(C10-Pad2).
+Reconnected R2 pin 1 from SDMMC1_D1 to /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Reconnected R3 pin 1 from SDMMC1_D2 to /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Reconnected R4 pin 1 from SDMMC1_D3 to /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Reconnected R5 pin 1 from SDMMC1_CK to /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Reconnected R6 pin 1 from SDMMC1_CMD to /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Reconnected R7 pin 1 from \RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected R8 pin 1 from NetR8_1 to Net-(R8-Pad1).
+Reconnected R8 pin 2 from \RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected R9 pin 1 from \LED2_RED to /SH_OSD19001_BREAKOUTS/\LED2_RED.
+Reconnected R9 pin 2 from NetD2_1 to Net-(D2-Pad1).
+Reconnected S1 pin 1 from NetR8_1 to Net-(R8-Pad1).
+Reconnected S1 pin 1 from NetR8_1 to Net-(R8-Pad1).
+Reconnected S2 pin 4 from EEPROM_WP to /SH_OSD19001_CORE/EEPROM_WP.
+Reconnected S2 pin 6 from BOOT2 to /SH_OSD19001_CORE/BOOT2.
+Reconnected S2 pin 7 from BOOT1 to /SH_OSD19001_CORE/BOOT1.
+Reconnected S2 pin 8 from BOOT0 to /SH_OSD19001_CORE/BOOT0.
+Reconnected TP1 pin 10 from \RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected TP1 pin 2 from SWDIO/TMS to /SH_OSD19001_CORE/SWDIO/TMS.
+Reconnected TP1 pin 4 from SWCLK/TCK to /SH_OSD19001_CORE/SWCLK/TCK.
+Reconnected TP1 pin 6 from SWO/TDO to /SH_OSD19001_CORE/SWO/TDO.
+Reconnected TP1 pin 8 from TDI to /SH_OSD19001_CORE/TDI.
+Reconnected TP1 pin 9 from \TRST to /SH_OSD19001_CORE/\TRST.
+Reconnected U1 pin A10 from PF13 to /SH_OSD19001_BREAKOUTS/PF13.
+Reconnected U1 pin A11 from PB0 to /SH_OSD19001_BREAKOUTS/PB0.
+Reconnected U1 pin A12 from PA7 to /SH_OSD19001_BREAKOUTS/PA7.
+Reconnected U1 pin A13 from PB10 to /SH_OSD19001_BREAKOUTS/PB10.
+Reconnected U1 pin A14 from PB13 to /SH_OSD19001_BREAKOUTS/PB13.
+Reconnected U1 pin A15 from PA2 to /SH_OSD19001_BREAKOUTS/PA2.
+Reconnected U1 pin A16 from PA5 to /SH_OSD19001_BREAKOUTS/PA5.
+Reconnected U1 pin A17 from PC0 to /SH_OSD19001_BREAKOUTS/PC0.
+Reconnected U1 pin A2 from PD15 to /SH_OSD19001_BREAKOUTS/PD15.
+Reconnected U1 pin A4 from PG12 to /SH_OSD19001_BREAKOUTS/PG12.
+Reconnected U1 pin A5 from PA3 to /SH_OSD19001_BREAKOUTS/PA3.
+Reconnected U1 pin A6 from PE2 to /SH_OSD19001_BREAKOUTS/PE2.
+Reconnected U1 pin A7 from PG14 to /SH_OSD19001_BREAKOUTS/PG14.
+Reconnected U1 pin A8 from PG2 to /SH_OSD19001_BREAKOUTS/PG2.
+Reconnected U1 pin A9 from PB11 to /SH_OSD19001_BREAKOUTS/PB11.
+Reconnected U1 pin B1 from PD9 to /SH_OSD19001_BREAKOUTS/PD9.
+Reconnected U1 pin B10 from PF14 to /SH_OSD19001_BREAKOUTS/PF14.
+Reconnected U1 pin B11 from PB1 to /SH_OSD19001_BREAKOUTS/PB1.
+Reconnected U1 pin B12 from PC4 to /SH_OSD19001_BREAKOUTS/PC4.
+Reconnected U1 pin B14 from PB12 to /SH_OSD19001_BREAKOUTS/PB12.
+Reconnected U1 pin B15 from PC1 to /SH_OSD19001_BREAKOUTS/PC1.
+Reconnected U1 pin B16 from PA4 to /SH_OSD19001_BREAKOUTS/PA4.
+Reconnected U1 pin B17 from PA6 to /SH_OSD19001_BREAKOUTS/PA6.
+Reconnected U1 pin B18 from PF11 to /SH_OSD19001_BREAKOUTS/PF11.
+Reconnected U1 pin B2 from PD8 to /SH_OSD19001_BREAKOUTS/PD8.
+Reconnected U1 pin B3 from PA14 to /SH_OSD19001_BREAKOUTS/PA14.
+Reconnected U1 pin B6 from PC3 to /SH_OSD19001_BREAKOUTS/PC3.
+Reconnected U1 pin B7 from PG13 to /SH_OSD19001_BREAKOUTS/PG13.
+Reconnected U1 pin B8 from PG1 to /SH_OSD19001_BREAKOUTS/PG1.
+Reconnected U1 pin B9 from PG4 to /SH_OSD19001_BREAKOUTS/PG4.
+Reconnected U1 pin C1 from \LED2_RED to /SH_OSD19001_BREAKOUTS/\LED2_RED.
+Reconnected U1 pin C10 from PF15 to /SH_OSD19001_BREAKOUTS/PF15.
+Reconnected U1 pin C11 from PF12 to /SH_OSD19001_BREAKOUTS/PF12.
+Reconnected U1 pin C12 from PC5 to /SH_OSD19001_BREAKOUTS/PC5.
+Reconnected U1 pin C14 from UART4_TX to /SH_OSD19001_BREAKOUTS/UART4_TX.
+Reconnected U1 pin C15 from PG5 to /SH_OSD19001_BREAKOUTS/PG5.
+Reconnected U1 pin C16 from PA1 to /SH_OSD19001_BREAKOUTS/PA1.
+Reconnected U1 pin C17 from PB5 to /SH_OSD19001_BREAKOUTS/PB5.
+Reconnected U1 pin C2 from \LED2_GRN to /SH_OSD19001_BREAKOUTS/\LED2_GRN.
+Reconnected U1 pin C3 from PD14 to /SH_OSD19001_BREAKOUTS/PD14.
+Reconnected U1 pin C6 from PF3 to /SH_OSD19001_BREAKOUTS/PF3.
+Reconnected U1 pin C7 from PC2 to /SH_OSD19001_BREAKOUTS/PC2.
+Reconnected U1 pin C8 from PG0 to /SH_OSD19001_BREAKOUTS/PG0.
+Reconnected U1 pin C9 from PG3 to /SH_OSD19001_BREAKOUTS/PG3.
+Reconnected U1 pin D1 from \LED1_RED to /SH_OSD19001_BREAKOUTS/\LED1_RED.
+Reconnected U1 pin D2 from \LED1_GRN to /SH_OSD19001_BREAKOUTS/\LED1_GRN.
+Reconnected U1 pin D3 from \PONKEY to /SH_OSD19001_BREAKOUTS/\PONKEY.
+Reconnected U1 pin E1 from PZ3 to /SH_OSD19001_BREAKOUTS/PZ3.
+Reconnected U1 pin E18 from PD11 to /SH_OSD19001_BREAKOUTS/PD11.
+Reconnected U1 pin E2 from PZ4 to /SH_OSD19001_BREAKOUTS/PZ4.
+Reconnected U1 pin E3 from PZ5 to /SH_OSD19001_BREAKOUTS/PZ5.
+Reconnected U1 pin F1 from PZ0 to /SH_OSD19001_BREAKOUTS/PZ0.
+Reconnected U1 pin F16 from PD12 to /SH_OSD19001_BREAKOUTS/PD12.
+Reconnected U1 pin F17 from PD13 to /SH_OSD19001_BREAKOUTS/PD13.
+Reconnected U1 pin F18 from PF6 to /SH_OSD19001_BREAKOUTS/PF6.
+Reconnected U1 pin F2 from PZ1 to /SH_OSD19001_BREAKOUTS/PZ1.
+Reconnected U1 pin F3 from PZ2 to /SH_OSD19001_BREAKOUTS/PZ2.
+Reconnected U1 pin G6 from BOOT2 to /SH_OSD19001_CORE/BOOT2.
+Reconnected U1 pin H17 from \SDDET to /SH_OSD19001_BREAKOUTS/\SDDET.
+Reconnected U1 pin H18 from PB6 to /SH_OSD19001_BREAKOUTS/PB6.
+Reconnected U1 pin H6 from BOOT1 to /SH_OSD19001_CORE/BOOT1.
+Reconnected U1 pin J17 from USB2_D_N to /SH_OSD19001_USB/USB2_D_N.
+Reconnected U1 pin J18 from USB2_D_P to /SH_OSD19001_USB/USB2_D_P.
+Reconnected U1 pin J6 from BOOT0 to /SH_OSD19001_CORE/BOOT0.
+Reconnected U1 pin K1 from NetU1_K1 to Net-(U1-PadK1).
+Reconnected U1 pin K17 from USB1_D_P to /SH_OSD19001_BREAKOUTS/USB1_D_P.
+Reconnected U1 pin K18 from USB1_D_N to /SH_OSD19001_BREAKOUTS/USB1_D_N.
+Reconnected U1 pin K2 from NetU1_K1 to Net-(U1-PadK1).
+Reconnected U1 pin L1 from ANA0 to /SH_OSD19001_BREAKOUTS/ANA0.
+Reconnected U1 pin L2 from ANA1 to /SH_OSD19001_BREAKOUTS/ANA1.
+Reconnected U1 pin M1 from NetU1_M1 to Net-(U1-PadM1).
+Reconnected U1 pin M18 from UART4_RX to /SH_OSD19001_BREAKOUTS/UART4_RX.
+Reconnected U1 pin M2 from NetU1_M1 to Net-(U1-PadM1).
+Reconnected U1 pin M3 from \RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected U1 pin N1 from NetC3_1 to Net-(C3-Pad1).
+Reconnected U1 pin N2 from NetC4_1 to Net-(C4-Pad1).
+Reconnected U1 pin N3 from PI7 to /SH_OSD19001_BREAKOUTS/PI7.
+Reconnected U1 pin P1 from PI4 to /SH_OSD19001_BREAKOUTS/PI4.
+Reconnected U1 pin P2 from PI5 to /SH_OSD19001_BREAKOUTS/PI5.
+Reconnected U1 pin P3 from PI6 to /SH_OSD19001_BREAKOUTS/PI6.
+Reconnected U1 pin P4 from EEPROM_WP to /SH_OSD19001_CORE/EEPROM_WP.
+Reconnected U1 pin R1 from PI1 to /SH_OSD19001_BREAKOUTS/PI1.
+Reconnected U1 pin R11 from \TRST to /SH_OSD19001_CORE/\TRST.
+Reconnected U1 pin R12 from SWO/TDO to /SH_OSD19001_CORE/SWO/TDO.
+Reconnected U1 pin R13 from TDI to /SH_OSD19001_CORE/TDI.
+Reconnected U1 pin R14 from SWDIO/TMS to /SH_OSD19001_CORE/SWDIO/TMS.
+Reconnected U1 pin R15 from SWCLK/TCK to /SH_OSD19001_CORE/SWCLK/TCK.
+Reconnected U1 pin R16 from PC7 to /SH_OSD19001_BREAKOUTS/PC7.
+Reconnected U1 pin R2 from PI2 to /SH_OSD19001_BREAKOUTS/PI2.
+Reconnected U1 pin R3 from PI3 to /SH_OSD19001_BREAKOUTS/PI3.
+Reconnected U1 pin T1 from PH14 to /SH_OSD19001_BREAKOUTS/PH14.
+Reconnected U1 pin T10 from PD6 to /SH_OSD19001_BREAKOUTS/PD6.
+Reconnected U1 pin T11 from PD3 to /SH_OSD19001_BREAKOUTS/PD3.
+Reconnected U1 pin T12 from PE3 to /SH_OSD19001_BREAKOUTS/PE3.
+Reconnected U1 pin T13 from PB8 to /SH_OSD19001_BREAKOUTS/PB8.
+Reconnected U1 pin T14 from PB14 to /SH_OSD19001_BREAKOUTS/PB14.
+Reconnected U1 pin T15 from PA15 to /SH_OSD19001_BREAKOUTS/PA15.
+Reconnected U1 pin T16 from SDMMC1_D0 to /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Reconnected U1 pin T2 from PH15 to /SH_OSD19001_BREAKOUTS/PH15.
+Reconnected U1 pin T3 from PI0 to /SH_OSD19001_BREAKOUTS/PI0.
+Reconnected U1 pin T4 from PH8 to /SH_OSD19001_BREAKOUTS/PH8.
+Reconnected U1 pin T5 from PE13 to /SH_OSD19001_BREAKOUTS/PE13.
+Reconnected U1 pin T6 from PH5 to /SH_OSD19001_BREAKOUTS/PH5.
+Reconnected U1 pin T7 from PE1 to /SH_OSD19001_BREAKOUTS/PE1.
+Reconnected U1 pin T8 from PF5 to /SH_OSD19001_BREAKOUTS/PF5.
+Reconnected U1 pin T9 from PE6 to /SH_OSD19001_BREAKOUTS/PE6.
+Reconnected U1 pin U1 from PH13 to /SH_OSD19001_BREAKOUTS/PH13.
+Reconnected U1 pin U10 from PD5 to /SH_OSD19001_BREAKOUTS/PD5.
+Reconnected U1 pin U11 from PD1 to /SH_OSD19001_BREAKOUTS/PD1.
+Reconnected U1 pin U12 from PA9 to /SH_OSD19001_BREAKOUTS/PA9.
+Reconnected U1 pin U13 from PB9 to /SH_OSD19001_BREAKOUTS/PB9.
+Reconnected U1 pin U14 from PB4 to /SH_OSD19001_BREAKOUTS/PB4.
+Reconnected U1 pin U15 from PG6 to /SH_OSD19001_BREAKOUTS/PG6.
+Reconnected U1 pin U16 from SDMMC1_D1 to /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Reconnected U1 pin U17 from SDMMC1_D3 to /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Reconnected U1 pin U18 from SDMMC1_CMD to /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Reconnected U1 pin U2 from PH12 to /SH_OSD19001_BREAKOUTS/PH12.
+Reconnected U1 pin U3 from PH10 to /SH_OSD19001_BREAKOUTS/PH10.
+Reconnected U1 pin U4 from PE15 to /SH_OSD19001_BREAKOUTS/PE15.
+Reconnected U1 pin U5 from PE12 to /SH_OSD19001_BREAKOUTS/PE12.
+Reconnected U1 pin U6 from PH4 to /SH_OSD19001_BREAKOUTS/PH4.
+Reconnected U1 pin U7 from PE0 to /SH_OSD19001_BREAKOUTS/PE0.
+Reconnected U1 pin U8 from PF0 to /SH_OSD19001_BREAKOUTS/PF0.
+Reconnected U1 pin U9 from PD7 to /SH_OSD19001_BREAKOUTS/PD7.
+Reconnected U1 pin V10 from PD4 to /SH_OSD19001_BREAKOUTS/PD4.
+Reconnected U1 pin V11 from PD0 to /SH_OSD19001_BREAKOUTS/PD0.
+Reconnected U1 pin V12 from PB7 to /SH_OSD19001_BREAKOUTS/PB7.
+Reconnected U1 pin V13 from PB15 to /SH_OSD19001_BREAKOUTS/PB15.
+Reconnected U1 pin V14 from PB3 to /SH_OSD19001_BREAKOUTS/PB3.
+Reconnected U1 pin V15 from PE5 to /SH_OSD19001_BREAKOUTS/PE5.
+Reconnected U1 pin V16 from SDMMC1_D2 to /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Reconnected U1 pin V17 from SDMMC1_CK to /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Reconnected U1 pin V2 from PH11 to /SH_OSD19001_BREAKOUTS/PH11.
+Reconnected U1 pin V3 from PH9 to /SH_OSD19001_BREAKOUTS/PH9.
+Reconnected U1 pin V4 from PE14 to /SH_OSD19001_BREAKOUTS/PE14.
+Reconnected U1 pin V5 from PE11 to /SH_OSD19001_BREAKOUTS/PE11.
+Reconnected U1 pin V6 from PD10 to /SH_OSD19001_BREAKOUTS/PD10.
+Reconnected U1 pin V7 from PF4 to /SH_OSD19001_BREAKOUTS/PF4.
+Reconnected U1 pin V8 from PF1 to /SH_OSD19001_BREAKOUTS/PF1.
+Reconnected U1 pin V9 from PG15 to /SH_OSD19001_BREAKOUTS/PG15.
+Reconnected Y1 pin 1 from NetC4_1 to Net-(C4-Pad1).
+Reconnected Y1 pin 2 from NetC3_1 to Net-(C3-Pad1).
+Reconnected copper zone from /SH_OSD19001_USB/VWALLP to /SH_OSD19001_USB/VWALLP.
+Reconnected copper zone from Net-(C10-Pad2) to Net-(C10-Pad2).
+Reconnected copper zone from Net-(C10-Pad2) to Net-(C10-Pad2).
+Reconnected copper zone from Net-(C10-Pad2) to Net-(C10-Pad2).
+Reconnected copper zone from Net-(C10-Pad2) to Net-(C10-Pad2).
+Reconnected via from /SH_OSD19001_BREAKOUTS/PA1 to /SH_OSD19001_BREAKOUTS/PA1.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PB14 to /SH_OSD19001_BREAKOUTS/PB14.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PB5 to /SH_OSD19001_BREAKOUTS/PB5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PB8 to /SH_OSD19001_BREAKOUTS/PB8.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PC2 to /SH_OSD19001_BREAKOUTS/PC2.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PC5 to /SH_OSD19001_BREAKOUTS/PC5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PC7 to /SH_OSD19001_BREAKOUTS/PC7.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PD3 to /SH_OSD19001_BREAKOUTS/PD3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PD6 to /SH_OSD19001_BREAKOUTS/PD6.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PE1 to /SH_OSD19001_BREAKOUTS/PE1.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PE13 to /SH_OSD19001_BREAKOUTS/PE13.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PE3 to /SH_OSD19001_BREAKOUTS/PE3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PE6 to /SH_OSD19001_BREAKOUTS/PE6.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PF12 to /SH_OSD19001_BREAKOUTS/PF12.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PF15 to /SH_OSD19001_BREAKOUTS/PF15.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PF5 to /SH_OSD19001_BREAKOUTS/PF5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PG0 to /SH_OSD19001_BREAKOUTS/PG0.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PG3 to /SH_OSD19001_BREAKOUTS/PG3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PG5 to /SH_OSD19001_BREAKOUTS/PG5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PH5 to /SH_OSD19001_BREAKOUTS/PH5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PH8 to /SH_OSD19001_BREAKOUTS/PH8.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI0 to /SH_OSD19001_BREAKOUTS/PI0.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI3 to /SH_OSD19001_BREAKOUTS/PI3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI4 to /SH_OSD19001_BREAKOUTS/PI4.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI5 to /SH_OSD19001_BREAKOUTS/PI5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI6 to /SH_OSD19001_BREAKOUTS/PI6.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PI7 to /SH_OSD19001_BREAKOUTS/PI7.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ0 to /SH_OSD19001_BREAKOUTS/PZ0.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ1 to /SH_OSD19001_BREAKOUTS/PZ1.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ2 to /SH_OSD19001_BREAKOUTS/PZ2.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ3 to /SH_OSD19001_BREAKOUTS/PZ3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ4 to /SH_OSD19001_BREAKOUTS/PZ4.
+Reconnected via from /SH_OSD19001_BREAKOUTS/PZ5 to /SH_OSD19001_BREAKOUTS/PZ5.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_CK to /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_CK to /SH_OSD19001_BREAKOUTS/SDMMC1_CK.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_CMD to /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_CMD to /SH_OSD19001_BREAKOUTS/SDMMC1_CMD.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D0 to /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D0 to /SH_OSD19001_BREAKOUTS/SDMMC1_D0.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D1 to /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D1 to /SH_OSD19001_BREAKOUTS/SDMMC1_D1.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D2 to /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D2 to /SH_OSD19001_BREAKOUTS/SDMMC1_D2.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D3 to /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/SDMMC1_D3 to /SH_OSD19001_BREAKOUTS/SDMMC1_D3.
+Reconnected via from /SH_OSD19001_BREAKOUTS/UART4_RX to /SH_OSD19001_BREAKOUTS/UART4_RX.
+Reconnected via from /SH_OSD19001_BREAKOUTS/UART4_TX to /SH_OSD19001_BREAKOUTS/UART4_TX.
+Reconnected via from /SH_OSD19001_BREAKOUTS/\PONKEY to /SH_OSD19001_BREAKOUTS/\PONKEY.
+Reconnected via from /SH_OSD19001_BREAKOUTS/\RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected via from /SH_OSD19001_BREAKOUTS/\RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected via from /SH_OSD19001_BREAKOUTS/\RESET to /SH_OSD19001_BREAKOUTS/\RESET.
+Reconnected via from /SH_OSD19001_CORE/BOOT0 to /SH_OSD19001_CORE/BOOT0.
+Reconnected via from /SH_OSD19001_CORE/BOOT0 to /SH_OSD19001_CORE/BOOT0.
+Reconnected via from /SH_OSD19001_CORE/BOOT1 to /SH_OSD19001_CORE/BOOT1.
+Reconnected via from /SH_OSD19001_CORE/BOOT1 to /SH_OSD19001_CORE/BOOT1.
+Reconnected via from /SH_OSD19001_CORE/BOOT2 to /SH_OSD19001_CORE/BOOT2.
+Reconnected via from /SH_OSD19001_CORE/BOOT2 to /SH_OSD19001_CORE/BOOT2.
+Reconnected via from /SH_OSD19001_CORE/EEPROM_WP to /SH_OSD19001_CORE/EEPROM_WP.
+Reconnected via from /SH_OSD19001_CORE/EEPROM_WP to /SH_OSD19001_CORE/EEPROM_WP.
+Reconnected via from /SH_OSD19001_CORE/SWCLK/TCK to /SH_OSD19001_CORE/SWCLK/TCK.
+Reconnected via from /SH_OSD19001_CORE/SWCLK/TCK to /SH_OSD19001_CORE/SWCLK/TCK.
+Reconnected via from /SH_OSD19001_CORE/SWDIO/TMS to /SH_OSD19001_CORE/SWDIO/TMS.
+Reconnected via from /SH_OSD19001_CORE/SWDIO/TMS to /SH_OSD19001_CORE/SWDIO/TMS.
+Reconnected via from /SH_OSD19001_CORE/SWO/TDO to /SH_OSD19001_CORE/SWO/TDO.
+Reconnected via from /SH_OSD19001_CORE/SWO/TDO to /SH_OSD19001_CORE/SWO/TDO.
+Reconnected via from /SH_OSD19001_CORE/TDI to /SH_OSD19001_CORE/TDI.
+Reconnected via from /SH_OSD19001_CORE/TDI to /SH_OSD19001_CORE/TDI.
+Reconnected via from /SH_OSD19001_CORE/\TRST to /SH_OSD19001_CORE/\TRST.
+Reconnected via from /SH_OSD19001_CORE/\TRST to /SH_OSD19001_CORE/\TRST.
+Reconnected via from /SH_OSD19001_USB/USB2_D_N to /SH_OSD19001_USB/USB2_D_N.
+Reconnected via from /SH_OSD19001_USB/USB2_D_N to /SH_OSD19001_USB/USB2_D_N.
+Reconnected via from /SH_OSD19001_USB/USB2_D_P to /SH_OSD19001_USB/USB2_D_P.
+Reconnected via from /SH_OSD19001_USB/USB2_D_P to /SH_OSD19001_USB/USB2_D_P.
+Removed unused net ANA0.
+Removed unused net ANA1.
+Removed unused net BOOT0.
+Removed unused net BOOT1.
+Removed unused net BOOT2.
+Removed unused net EEPROM_WP.
+Removed unused net NetC10_2.
+Removed unused net NetC3_1.
+Removed unused net NetC4_1.
+Removed unused net NetD1_1.
+Removed unused net NetD1_2.
+Removed unused net NetD2_1.
+Removed unused net NetD2_2.
+Removed unused net NetD3_1.
+Removed unused net NetD3_2.
+Removed unused net NetR8_1.
+Removed unused net NetU1_K1.
+Removed unused net NetU1_M1.
+Removed unused net PA1.
+Removed unused net PA14.
+Removed unused net PA15.
+Removed unused net PA2.
+Removed unused net PA3.
+Removed unused net PA4.
+Removed unused net PA5.
+Removed unused net PA6.
+Removed unused net PA7.
+Removed unused net PA9.
+Removed unused net PB0.
+Removed unused net PB1.
+Removed unused net PB10.
+Removed unused net PB11.
+Removed unused net PB12.
+Removed unused net PB13.
+Removed unused net PB14.
+Removed unused net PB15.
+Removed unused net PB3.
+Removed unused net PB4.
+Removed unused net PB5.
+Removed unused net PB6.
+Removed unused net PB7.
+Removed unused net PB8.
+Removed unused net PB9.
+Removed unused net PC0.
+Removed unused net PC1.
+Removed unused net PC2.
+Removed unused net PC3.
+Removed unused net PC4.
+Removed unused net PC5.
+Removed unused net PC7.
+Removed unused net PD0.
+Removed unused net PD1.
+Removed unused net PD10.
+Removed unused net PD11.
+Removed unused net PD12.
+Removed unused net PD13.
+Removed unused net PD14.
+Removed unused net PD15.
+Removed unused net PD3.
+Removed unused net PD4.
+Removed unused net PD5.
+Removed unused net PD6.
+Removed unused net PD7.
+Removed unused net PD8.
+Removed unused net PD9.
+Removed unused net PE0.
+Removed unused net PE1.
+Removed unused net PE11.
+Removed unused net PE12.
+Removed unused net PE13.
+Removed unused net PE14.
+Removed unused net PE15.
+Removed unused net PE2.
+Removed unused net PE3.
+Removed unused net PE5.
+Removed unused net PE6.
+Removed unused net PF0.
+Removed unused net PF1.
+Removed unused net PF11.
+Removed unused net PF12.
+Removed unused net PF13.
+Removed unused net PF14.
+Removed unused net PF15.
+Removed unused net PF3.
+Removed unused net PF4.
+Removed unused net PF5.
+Removed unused net PF6.
+Removed unused net PG0.
+Removed unused net PG1.
+Removed unused net PG12.
+Removed unused net PG13.
+Removed unused net PG14.
+Removed unused net PG15.
+Removed unused net PG2.
+Removed unused net PG3.
+Removed unused net PG4.
+Removed unused net PG5.
+Removed unused net PG6.
+Removed unused net PH10.
+Removed unused net PH11.
+Removed unused net PH12.
+Removed unused net PH13.
+Removed unused net PH14.
+Removed unused net PH15.
+Removed unused net PH4.
+Removed unused net PH5.
+Removed unused net PH8.
+Removed unused net PH9.
+Removed unused net PI0.
+Removed unused net PI1.
+Removed unused net PI2.
+Removed unused net PI3.
+Removed unused net PI4.
+Removed unused net PI5.
+Removed unused net PI6.
+Removed unused net PI7.
+Removed unused net PZ0.
+Removed unused net PZ1.
+Removed unused net PZ2.
+Removed unused net PZ3.
+Removed unused net PZ4.
+Removed unused net PZ5.
+Removed unused net SDMMC1_CK.
+Removed unused net SDMMC1_CMD.
+Removed unused net SDMMC1_D0.
+Removed unused net SDMMC1_D1.
+Removed unused net SDMMC1_D2.
+Removed unused net SDMMC1_D3.
+Removed unused net SWCLK/TCK.
+Removed unused net SWDIO/TMS.
+Removed unused net SWO/TDO.
+Removed unused net TDI.
+Removed unused net UART4_RX.
+Removed unused net UART4_TX.
+Removed unused net USB1_D_N.
+Removed unused net USB1_D_P.
+Removed unused net USB2_D_N.
+Removed unused net USB2_D_P.
+Removed unused net VWALLP.
+Removed unused net \LED1_GRN.
+Removed unused net \LED1_RED.
+Removed unused net \LED2_GRN.
+Removed unused net \LED2_RED.
+Removed unused net \PONKEY.
+Removed unused net \RESET.
+Removed unused net \SDDET.
+Removed unused net \TRST.
+Updated C1 properties.
+Updated C1 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/cf04b884-f95a-4479-b921-1dc74807d66c.
+Updated C10 properties.
+Updated C10 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/03f3439e-e3cf-4190-bd00-eb83459e5505.
+Updated C2 properties.
+Updated C2 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/64c6e159-5334-447b-9e4f-da00cc15fb53.
+Updated C3 properties.
+Updated C3 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/3e6880ab-7e54-4ac5-94a1-050619a6a403.
+Updated C4 properties.
+Updated C4 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/6b295f33-3483-4a09-8085-e0b134b44f4c.
+Updated C5 properties.
+Updated C5 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/fcab7008-c95f-4cc1-832a-2f9eb7bd416b.
+Updated C6 properties.
+Updated C6 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/d2747369-4c4f-46dc-a933-e8b91bf64a18.
+Updated C7 properties.
+Updated C7 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/50ed6899-e267-4c8a-9ead-ab1fe6243ce6.
+Updated C8 properties.
+Updated C8 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/a0cf9ddd-7593-4d24-a5fd-35ade74bc57e.
+Updated C9 properties.
+Updated C9 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/94fc055c-5629-45ce-9683-82c82d3e6dcc.
+Updated D1 properties.
+Updated D1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9b473153-371d-475d-92d8-733c6d29f74d.
+Updated D2 properties.
+Updated D2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/0393fd31-b4c4-487c-80c2-788bf1d6134f.
+Updated D3 properties.
+Updated D3 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/5baca3f5-277b-4783-bf84-81bb386de79d.
+Updated FID1 properties.
+Updated FID1 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/f50d36aa-e679-4752-a349-5049e706d270.
+Updated FID2 properties.
+Updated FID2 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/3057fca0-f5d7-432a-860d-df58467607da.
+Updated FID3 properties.
+Updated FID3 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/8102f4f1-1add-4174-8b06-136c63e1b018.
+Updated J1 properties.
+Updated J1 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/6cfb5d51-90a6-4731-9242-be58645ea1a6.
+Updated J2 properties.
+Updated J2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9da4c380-3cb3-4766-86ab-73bdcc64d87e.
+Updated L1 properties.
+Updated L1 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/4a3c4d83-efb4-4531-b105-216a18e27406.
+Updated PA1 properties.
+Updated PA1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/f33aead8-413e-4c8a-b252-570bc32ea425.
+Updated PA10 properties.
+Updated PA10 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/6e739480-9eb1-4163-8b1f-3f00d21acbe5.
+Updated PA11 properties.
+Updated PA11 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a97a839e-c2c7-447c-a9a0-ba4a0fa39d1b.
+Updated PA12 properties.
+Updated PA12 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/4a569fca-5e50-4bbb-8780-afccf32b464e.
+Updated PA13 properties.
+Updated PA13 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/dee03614-6952-4ee6-b6f1-5178591b25c7.
+Updated PA14 properties.
+Updated PA14 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d8d4b8f8-dc4f-4dae-b123-1c39c60187b7.
+Updated PA15 properties.
+Updated PA15 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/5cb5e2f6-e1db-4de8-86fe-5a8fbb6992de.
+Updated PA16 properties.
+Updated PA16 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d81f0296-45eb-4280-8cfb-090f5b905576.
+Updated PA17 properties.
+Updated PA17 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/048abaec-5d66-42af-ab19-89c1899cecd1.
+Updated PA18 properties.
+Updated PA18 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a845c5a1-d44c-4b48-8b30-7cb54583d55f.
+Updated PA19 properties.
+Updated PA19 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/01a38de2-5183-4a18-b958-3bab9d5008ec.
+Updated PA2 properties.
+Updated PA2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/3b0c1639-0c30-46e6-98b3-8b772cb840a3.
+Updated PA20 properties.
+Updated PA20 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/dfe9358f-a0ea-4cbc-af9c-5573bf8d22e6.
+Updated PA21 properties.
+Updated PA21 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/2871d9e9-4f1d-4566-b7b7-2cd33ef1bd50.
+Updated PA22 properties.
+Updated PA22 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/84cc9599-3d64-4a62-983f-e7a4ed3bd91c.
+Updated PA23 properties.
+Updated PA23 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e94552c4-48af-40bb-8b7e-e557823b08c1.
+Updated PA24 properties.
+Updated PA24 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9a590b89-04b3-49c6-9e9d-8e418bec0eec.
+Updated PA25 properties.
+Updated PA25 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/6c078304-bf12-4bbd-a834-a66e11c68061.
+Updated PA26 properties.
+Updated PA26 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/bb689819-879c-4e70-afeb-7cc181b77b78.
+Updated PA27 properties.
+Updated PA27 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/3d49ab0c-8275-48cd-9fdb-35c6927c38fb.
+Updated PA28 properties.
+Updated PA28 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e4691781-cc00-42fc-8eb0-02bdcce86735.
+Updated PA29 properties.
+Updated PA29 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/44a1a4b1-c1b1-4db3-b3c3-94c9b59de474.
+Updated PA3 properties.
+Updated PA3 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c1ef5854-5dcf-4d7a-aa4c-87163d505000.
+Updated PA30 properties.
+Updated PA30 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/48952e78-d5a2-4b7b-b3b9-b93251daae15.
+Updated PA4 properties.
+Updated PA4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/bba5b7d5-d83a-4452-b962-f9fdb06d4d43.
+Updated PA5 properties.
+Updated PA5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c9444eaf-4ab0-45c6-af1f-b3e49107f377.
+Updated PA6 properties.
+Updated PA6 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/7110fc55-163b-4448-a4a7-0a2df9fb6b9d.
+Updated PA7 properties.
+Updated PA7 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/f063586d-b700-41e7-985c-2a056af1ab58.
+Updated PA8 properties.
+Updated PA8 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/20bf7d2c-1bbb-401c-bd8a-ebc193305fde.
+Updated PA9 properties.
+Updated PA9 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/738135d6-f73e-4b24-9062-42c3f2e9f84a.
+Updated PB1 properties.
+Updated PB1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/1632edf1-9e0c-4bf5-a29c-eb7708dbc4bb.
+Updated PB10 properties.
+Updated PB10 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/159c482d-2e4e-4037-b6d4-d910998509a0.
+Updated PB11 properties.
+Updated PB11 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9234730c-f2f5-48a3-b5c8-844f3790b2ed.
+Updated PB12 properties.
+Updated PB12 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a267a66b-d718-4926-bc41-4e78bcf1d75e.
+Updated PB13 properties.
+Updated PB13 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/ffe3e955-bb8c-49ca-acfa-c1466bab00f6.
+Updated PB14 properties.
+Updated PB14 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/ff6bb636-ec25-4da9-9cd5-d824d0ea8d1a.
+Updated PB15 properties.
+Updated PB15 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e2f4d1ec-8226-4c5e-a0a4-01f33ecfef21.
+Updated PB16 properties.
+Updated PB16 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/61a20a47-5c75-42bd-b507-c82dfbaf414e.
+Updated PB17 properties.
+Updated PB17 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c56a67e8-8a6e-469c-863d-75bea16e4727.
+Updated PB18 properties.
+Updated PB18 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/45dfb12e-11bb-48a1-86bd-6ad4a0c20dec.
+Updated PB19 properties.
+Updated PB19 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/7e3de42e-073d-474b-bdf2-6ba285b77a2e.
+Updated PB2 properties.
+Updated PB2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d503287c-e7eb-49b3-bb31-030ac12f5387.
+Updated PB20 properties.
+Updated PB20 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/58f915f3-ec98-43a9-b350-fb34a9b56ae2.
+Updated PB21 properties.
+Updated PB21 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e802ce06-607c-413c-9fe7-cd8163f1bd83.
+Updated PB22 properties.
+Updated PB22 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c780fdf5-8084-4638-b4ab-5bda2e715856.
+Updated PB23 properties.
+Updated PB23 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/03a2dccd-80cf-4336-8947-f1e57b371c12.
+Updated PB24 properties.
+Updated PB24 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/8e0ec928-524f-4395-be68-9fe72009fb63.
+Updated PB25 properties.
+Updated PB25 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/47c862ef-0996-4812-a045-c7a1270a2620.
+Updated PB26 properties.
+Updated PB26 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/94942192-3c28-4b67-9719-5e7df090e5e7.
+Updated PB27 properties.
+Updated PB27 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/02762189-47d1-440b-8b08-86e0e24930ec.
+Updated PB28 properties.
+Updated PB28 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/6048254e-2e61-45cd-9122-77a5653a6af4.
+Updated PB29 properties.
+Updated PB29 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/4452776a-9f2e-41cf-8af2-c41e9d0ab000.
+Updated PB3 properties.
+Updated PB3 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a84d8509-649b-4d35-bd8a-c27cbe6ba780.
+Updated PB30 properties.
+Updated PB30 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/13d4fc65-752d-438d-a94b-6c70faaf58d7.
+Updated PB4 properties.
+Updated PB4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/112a0df5-efdf-4380-8fff-abfda35eddae.
+Updated PB5 properties.
+Updated PB5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/3df79eef-a2cb-4a23-8b85-2abfe5ae7793.
+Updated PB6 properties.
+Updated PB6 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/be7c5648-bb90-4a14-a6ed-9b11f5d2e575.
+Updated PB7 properties.
+Updated PB7 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/687c3b30-645e-4356-94cb-b110851e726a.
+Updated PB8 properties.
+Updated PB8 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a7b95b1f-4a0c-417b-bf94-07a16061bd73.
+Updated PB9 properties.
+Updated PB9 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/68c13107-49d1-47ee-9294-013a9bfa7058.
+Updated PC1 properties.
+Updated PC1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/1668eeb2-9802-4b5b-a96f-5bfcaa95fc3f.
+Updated PC10 properties.
+Updated PC10 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/347c47ea-5f69-4bcd-b9a7-1e1fde9cc916.
+Updated PC11 properties.
+Updated PC11 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/992db6cb-0af7-4665-92e6-d84b1cbbd21e.
+Updated PC12 properties.
+Updated PC12 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/76851b40-ef3f-461a-b7c0-ca0702c073b9.
+Updated PC13 properties.
+Updated PC13 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/7dcd8c9b-5193-418b-a8bb-9e46f2dd6d7c.
+Updated PC14 properties.
+Updated PC14 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/63368ce3-81d8-4cd6-8a60-cda001d26fb2.
+Updated PC15 properties.
+Updated PC15 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a07ed1ad-2013-4368-acc9-37d8e48a1a0e.
+Updated PC16 properties.
+Updated PC16 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/55a2a910-3df3-4e36-870e-54a70d194422.
+Updated PC17 properties.
+Updated PC17 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e8770a17-198f-40cc-8285-b263cd538b85.
+Updated PC18 properties.
+Updated PC18 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/609a0647-06e1-4534-9362-b9a444a86b33.
+Updated PC19 properties.
+Updated PC19 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/59821178-1055-4900-a8d2-902230ca1571.
+Updated PC2 properties.
+Updated PC2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/de737474-e2a5-4627-a0eb-cf41b3f4fa70.
+Updated PC20 properties.
+Updated PC20 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d529a428-fbcf-434a-9812-743db65245a9.
+Updated PC21 properties.
+Updated PC21 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/11101295-c369-4e0b-9773-bce2aaa00b5b.
+Updated PC22 properties.
+Updated PC22 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/4a1be881-8975-4ac5-b598-cd60286abe3a.
+Updated PC23 properties.
+Updated PC23 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/3944690c-70b2-4359-9431-4c6eb6c6cc7c.
+Updated PC24 properties.
+Updated PC24 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a7254418-961b-4b4c-9331-94acc1dfbe56.
+Updated PC25 properties.
+Updated PC25 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9efa013e-eaed-404c-abba-370a2edd6672.
+Updated PC26 properties.
+Updated PC26 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/f8fa8ae4-1855-4628-a702-0fdf6b9d8754.
+Updated PC27 properties.
+Updated PC27 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/19c248a0-dd00-47e3-b906-1b812e92547f.
+Updated PC28 properties.
+Updated PC28 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a4874ea9-ecad-4867-9eff-324bb3e75969.
+Updated PC29 properties.
+Updated PC29 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/0c7fd7c1-7dc3-4cf4-832b-47d5c9f9fb89.
+Updated PC3 properties.
+Updated PC3 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/71ff4ee9-5d54-461a-b476-9bc0e44813c0.
+Updated PC30 properties.
+Updated PC30 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/2f9a5215-b14f-48ef-b09f-2c5cc0db3a6a.
+Updated PC4 properties.
+Updated PC4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c82e8707-5599-42d8-9574-c3ad31235246.
+Updated PC5 properties.
+Updated PC5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/755cce10-9fe0-4453-9cfd-7c0f1025d879.
+Updated PC6 properties.
+Updated PC6 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/8689acd4-b548-4b5d-ad7b-6384f38c1638.
+Updated PC7 properties.
+Updated PC7 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e70beda1-91d3-4e4c-aebe-48c7c82357e2.
+Updated PC8 properties.
+Updated PC8 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/990b34e8-6079-4c8d-8308-f4510151b5a9.
+Updated PC9 properties.
+Updated PC9 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/4e4abe2b-2815-4e3c-87e2-c4da0e441f2a.
+Updated PD1 properties.
+Updated PD1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/b0e65332-375e-4ae9-80e3-b6ed491e9ec7.
+Updated PD10 properties.
+Updated PD10 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/7bce9c51-fae8-42c9-8353-ca286c9550fc.
+Updated PD11 properties.
+Updated PD11 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/97a1eadd-01ea-44bb-a487-ad66af8c0a20.
+Updated PD12 properties.
+Updated PD12 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/1c30e86e-0d88-4715-b1c6-48126e102289.
+Updated PD13 properties.
+Updated PD13 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/15e7b966-98c7-4c1e-9528-52d17d7819b5.
+Updated PD14 properties.
+Updated PD14 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/0c29d37e-55be-48db-8093-ffae7e5071b0.
+Updated PD15 properties.
+Updated PD15 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a8d2f8c4-628e-40cb-a7ee-4d0041f187c1.
+Updated PD16 properties.
+Updated PD16 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/6d902c4f-f469-4eff-be52-23269dda7f56.
+Updated PD17 properties.
+Updated PD17 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/98c7bf6f-714b-4d43-be52-731e8e9570d7.
+Updated PD18 properties.
+Updated PD18 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/fd5c9534-8ecc-4677-903d-14ce6e4eb1b2.
+Updated PD19 properties.
+Updated PD19 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/1b4e4361-26d5-4937-b718-3c7802acbaab.
+Updated PD2 properties.
+Updated PD2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/44a66e5c-9d7e-41d8-9347-e7a08f67e043.
+Updated PD20 properties.
+Updated PD20 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/eb874d6f-5b39-4af7-90b3-63b65f38bb7c.
+Updated PD21 properties.
+Updated PD21 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/74f199fd-3703-40a2-83cf-3c90023193ad.
+Updated PD22 properties.
+Updated PD22 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/610069bc-a211-432d-90b0-68bed55a4560.
+Updated PD23 properties.
+Updated PD23 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/bc21ca9d-a230-47f3-bf4d-0fe11204b4b0.
+Updated PD24 properties.
+Updated PD24 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/f11f471b-ac11-4830-bb9e-47dd38428cdd.
+Updated PD25 properties.
+Updated PD25 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/8d8bd8dc-e9b5-4c99-90ef-6eed48e509fc.
+Updated PD26 properties.
+Updated PD26 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/ea33f804-d4c3-47fb-97ef-eb0cbee11d8b.
+Updated PD27 properties.
+Updated PD27 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/537f5258-81f4-409b-941e-b87b1b4c7f50.
+Updated PD28 properties.
+Updated PD28 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/7ad4998c-7ea6-4e57-825b-e3f80a3ae4c6.
+Updated PD29 properties.
+Updated PD29 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/28ad6915-57d3-4e96-abab-4ff943a819fe.
+Updated PD3 properties.
+Updated PD3 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/061e31ad-aa93-40fd-9e62-5c7e24877b55.
+Updated PD30 properties.
+Updated PD30 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9c835e8d-0b57-4ffa-964b-720306a4e14b.
+Updated PD4 properties.
+Updated PD4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/8e4ed3d0-eb25-42d6-b19b-ed3542a43dcc.
+Updated PD5 properties.
+Updated PD5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/5b34d66b-a880-4bcc-9789-ebdb056f8014.
+Updated PD6 properties.
+Updated PD6 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/145f2ceb-dd4d-4fb4-ad62-b73426e8d2ad.
+Updated PD7 properties.
+Updated PD7 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/03949eea-cee5-47f9-ae59-dc005eea5d47.
+Updated PD8 properties.
+Updated PD8 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9669e007-b92a-4b62-96a6-1463f0a6562b.
+Updated PD9 properties.
+Updated PD9 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/e3456ea3-e3f8-459b-80b0-019015ad73c2.
+Updated PGND1 properties.
+Updated PGND1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/6fd0cb64-5713-40b3-a799-25c58f9ad5e0.
+Updated PRXD1 properties.
+Updated PRXD1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/2c26fe84-1ca9-4f15-8073-7500094c4ba3.
+Updated PTXD1 properties.
+Updated PTXD1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/a8be6403-5064-40fb-9226-5dd0e9cbc689.
+Updated PZ4 properties.
+Updated PZ4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/0f2d40bd-f69f-4287-8e4e-2942c298d0b1.
+Updated PZ5 properties.
+Updated PZ5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/9353be9b-80db-420d-9d04-c3c103bb92ab.
+Updated R1 properties.
+Updated R1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/327a29ed-2407-4ac1-b24b-3879b845c1ef.
+Updated R10 properties.
+Updated R10 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c0c60119-13af-4f27-92d2-b17a8fdca954.
+Updated R11 properties.
+Updated R11 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/80165557-dc17-4fbb-9180-b9d30b6aa1fd.
+Updated R12 properties.
+Updated R12 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d748c98b-9549-49f1-bdf3-47216b91c6dd.
+Updated R13 properties.
+Updated R13 symbol association from  to /f3afc1a7-c14e-4b48-8670-27488c562a4a/8b0f8514-a2f2-4538-b5ce-cd054a804a9e.
+Updated R2 properties.
+Updated R2 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/76606047-62b0-4b87-bf10-2f75c064da92.
+Updated R3 properties.
+Updated R3 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d36a06a8-0cbf-491a-b8c5-e72907d1873f.
+Updated R4 properties.
+Updated R4 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/27ca3361-c62b-437a-b518-3c87a3c76098.
+Updated R5 properties.
+Updated R5 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/d851e3b8-8aa9-46c6-88f9-9cde3b59e6f5.
+Updated R6 properties.
+Updated R6 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/56c0695c-02be-4e3d-8946-9d0562cd793e.
+Updated R7 properties.
+Updated R7 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/ee79c4fd-1696-431d-b8a6-91d7033d0f2e.
+Updated R8 properties.
+Updated R8 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/a8d18b25-c8d8-43e8-99c5-0a3efa27875f.
+Updated R9 properties.
+Updated R9 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/c0b331b8-3ad2-4613-8df3-127cb983ea8e.
+Updated S1 properties.
+Updated S1 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/acc901fc-426a-4b83-87cf-75798a4d2f8d.
+Updated S2 properties.
+Updated S2 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/0f0d55d8-ec24-4f63-9701-60de6ba436ee.
+Updated TP1 properties.
+Updated TP1 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/e0240cfa-0350-4ecd-9764-73cd5631adf0.
+Updated U1 properties.
+Updated U1 symbol association from  to /936a9399-2beb-4c0f-a384-f4f569c3421c/bcc17cb0-bd53-4126-90a0-ecf3ab7031f4.
+Updated Y1 properties.
+Updated Y1 symbol association from  to /df01931a-4cd1-470d-9fe8-191b6ea8345c/61d5a340-8ff3-4477-9fee-9bd807aad6e7.

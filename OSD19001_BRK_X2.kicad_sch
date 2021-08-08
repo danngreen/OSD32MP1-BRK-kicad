@@ -1,0 +1,1247 @@
+(kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid 706a83fd-4291-4e61-a459-d6d1cd68559f)
+
+  (paper "B")
+
+  (lib_symbols
+  )
+
+
+
+  (wire (pts (xy 170.18 157.48) (xy 157.48 157.48))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid 0c7af1f9-5cc4-4a99-b906-b7d13770f5be)
+  )
+  (wire (pts (xy 170.18 160.02) (xy 157.48 160.02))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid dd2e7414-345e-45ab-8544-14ef89a29c3e)
+  )
+  (wire (pts (xy 220.98 157.48) (xy 208.28 157.48))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid d2ecf29d-bdde-4e66-8bff-4b55d26450b4)
+  )
+  (wire (pts (xy 220.98 160.02) (xy 208.28 160.02))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid 1a84a685-1a91-43ee-9f19-6f5bb7581087)
+  )
+  (polyline (pts (xy 10.414 269.24) (xy 10.414 245.11))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid 0c88263b-1ed7-4728-9231-8b98f25dd091)
+  )
+  (polyline (pts (xy 10.414 269.24) (xy 114.554 269.24))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid 5bfc6952-af6d-402f-9586-01d18b1a4f99)
+  )
+  (polyline (pts (xy 114.554 245.11) (xy 10.414 245.11))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid b154daf9-b062-442b-b7ae-c061599d7cfb)
+  )
+  (polyline (pts (xy 114.554 245.11) (xy 114.554 269.24))
+    (stroke (width 0.254) (type solid) (color 0 0 0 0))
+    (uuid b44b04b6-5994-40d9-8b9a-9ec8bf34e6ee)
+  )
+  (polyline (pts (xy 259.08 256.54) (xy 259.08 274.32))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 7843addf-0d6e-4d5c-85af-6c36f36ed05c)
+  )
+  (polyline (pts (xy 259.08 264.16) (xy 320.04 264.16))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 6ffd212a-08c6-413e-9d29-94b5a0e04e25)
+  )
+  (polyline (pts (xy 259.08 269.24) (xy 320.04 269.24))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 08cc9f86-cbbc-492d-a5b0-2a0433b76e73)
+  )
+  (polyline (pts (xy 299.72 264.16) (xy 299.72 271.78))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 06df2401-343b-451d-bb17-2c0da2153e5c)
+  )
+  (polyline (pts (xy 320.04 256.54) (xy 320.04 271.78))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 252edcd5-e3ed-47c8-837a-a70ddbe3a1d7)
+  )
+  (polyline (pts (xy 347.98 256.54) (xy 259.08 256.54))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid b7d83461-6011-40d4-9143-c661a8a6e34a)
+  )
+  (polyline (pts (xy 347.98 256.54) (xy 347.98 271.78))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 483820c6-2878-46a1-b8b8-192080a32768)
+  )
+  (polyline (pts (xy 350.52 271.78) (xy 259.08 271.78))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 7fa5f93f-4107-432a-a6a2-a939e21a5350)
+  )
+  (polyline (pts (xy 350.52 271.78) (xy 375.92 271.78))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid caf316c0-fda2-4821-b9bd-adec6808f797)
+  )
+  (polyline (pts (xy 375.92 256.54) (xy 347.98 256.54))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 2abedfa4-c5e2-46dc-9d9b-acae87e315bf)
+  )
+
+  (image (at 190.2478 67.31) (scale 2.76596)
+    (uuid f5a8a800-e286-4d74-bff0-094b35ae61b4)
+    (data
+      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
+      ABAg/B8LWVIiMOjpjAAAAABJRU5ErkJggg==
+    )
+  )
+  (image (at 361.9499 263.7911) (scale 1.0135)
+    (uuid 88fd4564-285b-4745-8e9b-6d245bce10e4)
+    (data
+      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
+    )
+  )
+
+  (text "DESIGNED AND MANUFACTURED BY ALLIED COMPONENT WORKS, LLC"
+    (at 14.224 254.762 0)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid 356362f1-6aa6-4035-867a-7df74742be30)
+  )
+  (text "THANKS TO OUR ELECTRONICS MANUFACTURING COLLABORATORS"
+    (at 15.494 241.3 0)
+    (effects (font (size 1.524 1.524) bold italic) (justify left bottom))
+    (uuid 3f35224e-cc7a-47de-acc1-0c8d36f72f66)
+  )
+  (text "THIS OSD32MP1 BREAKOUT MODULE IS OPEN SOURCE HARDWARE"
+    (at 16.51 250.952 0)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid 55dfb7a3-bdf2-46fd-9541-766cb43ec274)
+  )
+  (text "IN COOPERATION WITH CUSTOM ELECTRONICS COMPANY, INC."
+    (at 18.034 262.636 0)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid 2dd4ddf7-0f52-4bef-876d-2382a09a2b63)
+  )
+  (text "WWW.ALLIEDCOMPONENTWORKS.COM" (at 33.274 258.572 180)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid b8f40de1-daf1-4fbc-864d-8dff424382e2)
+  )
+  (text "WWW.CUSTOMELECTRONICSCO.COM" (at 34.544 266.192 180)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid 334f4f33-8bd2-46ad-aa1b-650d6f35aca9)
+  )
+  (text "Copyright (C) 2020, Octavo Systems, LLC\nIncluding contributions Copyright (C) 2020, Allied Component Works, LLC\nCopyright and related rights are licensed under the Solderpad Hardware License, Version 2.0 (the \"License\"); you may not use any\nelement of this design except in compliance with the License. You may obtain a copy of the License at https://solderpad.org/licenses/SHL-2.0\nUnless required by applicable law or agreed to in writing; software, hardware, and other materials distributed under this License are\ndistributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and limitations.\n\nAdditional Notices To Users -\nThis device is intended for scientific and engineering test and evaluation only.  Furthermore, this device is a component and is not intended to operate independently of a larger system of components.  The user shall assume all responsibility for proper configuration and operation of the device in a system configuration.  This device has NOT been tested for electromagnetic compatibility in any system configuration, because such configurations are beyond the scope of the component design and beyond the control of the manufacturer.  However, operation of any system would still generally be subject to the following two conditions -\nA) The system may not cause harmful interference.\nB) The system must accept any interference received, including interference that my cause undesired operation.\nFinally, while this device is assembled with \"RoHS compliant\" materials, it still should not be disposed of with ordinary refuse, and instead\nit should be presented for proper recycling.\n"
+    (at 119.38 269.24 0)
+    (effects (font (size 1.143 1.143)) (justify left bottom))
+    (uuid 9477cee7-702b-4b88-bee1-6cb27f0c3950)
+  )
+  (text "OCTAVO SYSTEMS DEVELOPMENT BOARD PART NUMBER \"OSD32MP1-BRK, VER 1\""
+    (at 134.62 109.22 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid 6d276add-5361-405a-8fef-6f358f269589)
+  )
+  (text "" (at 149.86 113.03 180)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid c8bd40dc-c737-480b-be0f-2b3210bd3ce1)
+  )
+  (text "OSD32MP1 BREAKOUT MODULE" (at 162.56 104.14 180)
+    (effects (font (size 2.032 2.032) bold) (justify left bottom))
+    (uuid 8866f8f9-09c8-4975-a2dc-92fcab3b3e40)
+  )
+  (text "WWW.OCTAVOSYSTEMS.COM" (at 170.18 87.63 180)
+    (effects (font (size 1.524 1.524) bold) (justify left bottom))
+    (uuid 0eefca57-36bd-4c88-bc65-3b7ca8a5519f)
+  )
+  (text "TITLE:" (at 260.35 259.08 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 509ca02c-ed3b-4710-948b-47986a4c9221)
+  )
+  (text "DRAWING:" (at 260.35 267.97 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 9ce19105-45b2-48c2-b856-6b0303b24f94)
+  )
+  (text "MODIFIED:" (at 260.35 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid f6825239-ae2b-4dd0-a834-de44414ce650)
+  )
+  (text "CAD FILE:" (at 260.35 274.32 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 166c91d9-09a9-4f22-973b-1e5ad9c5556e)
+  )
+  (text "${PROJECTDRAWINGNUMBER}" (at 273.05 267.97 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 59510486-d3e1-4984-bc60-df27bc8b88e2)
+  )
+  (text "${MODIFIEDDATE}" (at 273.05 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid e8e380fb-579b-40a7-8e2b-d4f085601ef5)
+  )
+  (text "${FILENAME}" (at 273.05 274.32 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 1b419073-7732-48bd-9859-89305340100b)
+  )
+  (text "${SCHEMATICTITLE}" (at 290.83 262.89 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 2ff57aab-dc4d-4b33-987f-1029180a2ed0)
+  )
+  (text "REVISION:" (at 300.99 267.97 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid c43876a3-c89f-41b0-b17d-4f76b47869d0)
+  )
+  (text "SHEET" (at 300.99 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid ea6c76c9-8583-479c-938b-2abef03d9cbf)
+  )
+  (text "${#}" (at 307.848 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 9e61fbe3-d4df-4e3e-9af0-176e40076e84)
+  )
+  (text "OF" (at 310.642 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 04eeee71-e680-4db8-a48e-a6e575e98c78)
+  )
+  (text "${PROJECTREVISION}" (at 312.42 267.97 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid f254a61e-4bba-4530-b6f6-5cc52f2268eb)
+  )
+  (text "${##}" (at 314.198 271.78 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 73e5c894-3f43-4fd6-b3df-7af120dbdb74)
+  )
+  (text "${PROJECTCOMPANYNAME}" (at 321.31 262.89 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 8ac3c758-b29d-4082-bea4-a55dc3ab4294)
+  )
+  (text "${PROJECTADDRESS1}" (at 321.31 265.43 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 6d6a22b0-89af-4fe7-8c07-af7b6d96a7fa)
+  )
+  (text "${PROJECTADDRESS2}" (at 321.31 267.97 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 38ec72b9-5a2d-4490-8f4f-62891ea7680f)
+  )
+  (text "${PROJECTCOMPANYPHONE}" (at 321.31 270.51 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid 95c0b06f-b8cd-4f27-b6b1-c7971d41e1b0)
+  )
+  (text "ALLIED COMPONENT WORKS" (at 348.996 271.526 180)
+    (effects (font (size 1.016 1.016)) (justify left bottom))
+    (uuid ef853d30-aa0e-4391-a10f-60806358fbd6)
+  )
+
+  (sheet (at 170.18 149.86) (size 38.1 17.78) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 128 0 0 1))
+    (fill (color 128 255 128 1.0000))
+    (uuid 936a9399-2beb-4c0f-a384-f4f569c3421c)
+    (property "Sheet name" "SH_OSD19001_BREAKOUTS" (id 0) (at 170.18 147.828 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "OSD19001_BREAKOUTS.kicad_sch" (id 1) (at 170.18 149.86 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (pin "\\PONKEY" output (at 170.18 157.48 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d88d9cc9-706a-454e-ab1e-672f5c35aac5)
+    )
+    (pin "\\RESET" bidirectional (at 170.18 160.02 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 41f3e6b6-91df-427a-a997-86af93fa7811)
+    )
+    (pin "USB1_D_P" bidirectional (at 208.28 157.48 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid f34c4941-e6c3-4d1f-a9ba-34c5674d7f3d)
+    )
+    (pin "USB1_D_N" bidirectional (at 208.28 160.02 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid af5c6940-ef39-4b19-a16e-2529f33d568c)
+    )
+  )
+
+  (sheet (at 119.38 149.86) (size 38.1 17.78) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 128 0 0 1))
+    (fill (color 128 255 128 1.0000))
+    (uuid df01931a-4cd1-470d-9fe8-191b6ea8345c)
+    (property "Sheet name" "SH_OSD19001_CORE" (id 0) (at 119.38 147.828 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "OSD19001_CORE.kicad_sch" (id 1) (at 119.38 149.86 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (pin "\\PONKEY" input (at 157.48 157.48 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 4624a848-7970-48ad-9399-0382735da772)
+    )
+    (pin "\\RESET" bidirectional (at 157.48 160.02 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid a6561bf8-7944-454c-b36f-eb756932b087)
+    )
+  )
+
+  (sheet (at 220.98 149.86) (size 38.1 17.78) (fields_autoplaced)
+    (stroke (width 0) (type solid) (color 128 0 0 1))
+    (fill (color 128 255 128 1.0000))
+    (uuid f3afc1a7-c14e-4b48-8670-27488c562a4a)
+    (property "Sheet name" "SH_OSD19001_USB" (id 0) (at 220.98 147.828 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "OSD19001_USB.kicad_sch" (id 1) (at 220.98 149.86 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (pin "USB1_D_P" bidirectional (at 220.98 157.48 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid be6cdce3-d6ed-48c5-ab6e-1e76caf3857e)
+    )
+    (pin "USB1_D_N" bidirectional (at 220.98 160.02 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d2e14d7b-8b4b-4109-a0d5-ad0dfee7a01e)
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c" (page "#"))
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c" (page "#"))
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a" (page "#"))
+  )
+
+  (symbol_instances
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/25634b40-ce1c-4245-bbb6-c8e0558e7281"
+      (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/673da6cb-7fde-46ec-9e2d-c8368136e8db"
+      (reference "#PWR02") (unit 1) (value "+VIN") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/0436f99f-5bcd-432b-940c-c232743b224c"
+      (reference "#PWR03") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/3ff35c0f-2f80-4ac3-9028-085d2cf9560c"
+      (reference "#PWR04") (unit 1) (value "+VLDO2") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/632c5d90-1b42-4844-8995-538b17ce8515"
+      (reference "#PWR05") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/17774c7c-2195-4fed-8f59-5a2217529eda"
+      (reference "#PWR06") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/555b1549-0c61-45c1-a438-47efc128d22f"
+      (reference "#PWR07") (unit 1) (value "+VBST") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/dc5a0783-fb26-40f6-a733-002808e0f6e6"
+      (reference "#PWR08") (unit 1) (value "+VSW") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/16d627f4-372d-4557-9963-4536ae17f77f"
+      (reference "#PWR09") (unit 1) (value "+VBAT") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/c0473d6f-6d07-41ec-8cd1-b84939d26ee0"
+      (reference "#PWR010") (unit 1) (value "VDDI") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/b0d670ed-8f7c-4edc-a961-67aa558d2b78"
+      (reference "#PWR011") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/28ce6cd4-0005-4e7f-9896-496dabd96f02"
+      (reference "#PWR012") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/5b114960-bd33-4965-9cd5-7439e7b2e4f7"
+      (reference "#PWR013") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/95a5348c-dd8d-41b4-a25b-63c7bbb26615"
+      (reference "#PWR014") (unit 1) (value "VDDI") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/d7258138-8e35-4d4e-8b4e-febb32450559"
+      (reference "#PWR015") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/9751b902-b0d9-4162-aaa3-9afa9832c1c5"
+      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/6b6539de-bb1e-4fa2-b098-a2bdc719c46f"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/778cd0b8-0380-43aa-b8db-5a9eca2cde6e"
+      (reference "#PWR018") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/b3863826-83d9-4577-9ed4-79af0e57a8ca"
+      (reference "#PWR019") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/4b9007a7-8675-41f9-9ff2-0e750b541bfe"
+      (reference "#PWR020") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/096ba14e-9173-400e-9286-0f085a6939ad"
+      (reference "#PWR021") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/afc3979e-f5ff-485d-8186-5caf4a0442bb"
+      (reference "#PWR022") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/82a5abee-b0cd-4341-b4df-07d60621fb52"
+      (reference "#PWR023") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a7dfe410-a2b4-4a32-b693-386eb11251af"
+      (reference "#PWR024") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e7cfe5eb-c131-4a29-9abe-8f613b79dd2e"
+      (reference "#PWR025") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f1fe3f3f-e645-483c-b119-a227da068b7a"
+      (reference "#PWR026") (unit 1) (value "+VIN") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a26bff8d-6e7d-47c6-925e-b47ce6fbd008"
+      (reference "#PWR027") (unit 1) (value "+VIN") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/11eb06ed-76b9-4e03-8088-f4b6fe334b1a"
+      (reference "#PWR028") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/79ed2648-682c-4c1f-9ee2-5863fc49648e"
+      (reference "#PWR029") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e87cb315-3b8b-4c74-ae2c-b5ec37481ebb"
+      (reference "#PWR030") (unit 1) (value "+VLDO2") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f5d4f43d-e1e2-474a-a4db-859cffd9c219"
+      (reference "#PWR031") (unit 1) (value "+VBAT") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/862bdf27-ac7e-4278-9d68-7a132018f689"
+      (reference "#PWR032") (unit 1) (value "+VSW") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c99d842c-c874-4599-870a-841bdc8222ea"
+      (reference "#PWR033") (unit 1) (value "+VBST") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/b1b45208-eb61-46a6-a076-83d3263d474a"
+      (reference "#PWR034") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/74b60fdd-105c-43d6-a80d-b189b13ce506"
+      (reference "#PWR035") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/792dc86c-438f-41a2-8539-3ecee78a5233"
+      (reference "#PWR036") (unit 1) (value "+VIN") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/1cd25d91-f150-4380-a656-463f6018c308"
+      (reference "#PWR037") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/8dbc7771-385f-40c8-8d91-8c5358843665"
+      (reference "#PWR038") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/758e1484-e187-4d5d-8a01-dbfe12b30bc5"
+      (reference "#PWR039") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/9032dcb5-a872-4ebf-a612-0eb36b1cc435"
+      (reference "#PWR040") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/feb7e9cb-3042-45d8-b286-c1350e7ede66"
+      (reference "#PWR041") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/c0884e15-975d-4a6a-8074-31bb6171e77a"
+      (reference "#PWR042") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/eca9d575-980b-4ef0-a074-b2ad6bb7c68d"
+      (reference "#PWR043") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/c84040f3-a20f-44f5-a0e7-795b02dac47f"
+      (reference "#PWR044") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/1fcd820b-c3c5-41bd-8378-f7bd00d84418"
+      (reference "#PWR045") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/6447a2ab-ada6-44ee-895a-6d5a9786fc2f"
+      (reference "#PWR046") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/cf04b884-f95a-4479-b921-1dc74807d66c"
+      (reference "C1") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/64c6e159-5334-447b-9e4f-da00cc15fb53"
+      (reference "C2") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/3e6880ab-7e54-4ac5-94a1-050619a6a403"
+      (reference "C3") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_HIGH")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/6b295f33-3483-4a09-8085-e0b134b44f4c"
+      (reference "C4") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_HIGH")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/fcab7008-c95f-4cc1-832a-2f9eb7bd416b"
+      (reference "C5") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/d2747369-4c4f-46dc-a933-e8b91bf64a18"
+      (reference "C6") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/50ed6899-e267-4c8a-9ead-ab1fe6243ce6"
+      (reference "C7") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/a0cf9ddd-7593-4d24-a5fd-35ade74bc57e"
+      (reference "C8") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_EIAB")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/94fc055c-5629-45ce-9683-82c82d3e6dcc"
+      (reference "C9") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_EIAB")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/03f3439e-e3cf-4190-bd00-eb83459e5505"
+      (reference "C10") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9b473153-371d-475d-92d8-733c6d29f74d"
+      (reference "D1") (unit 1) (value "${PARTNUMBER}") (footprint "WURTH_DUAL_0606")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/0393fd31-b4c4-487c-80c2-788bf1d6134f"
+      (reference "D2") (unit 1) (value "${PARTNUMBER}") (footprint "WURTH_DUAL_0606")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/5baca3f5-277b-4783-bf84-81bb386de79d"
+      (reference "D3") (unit 1) (value "${PARTNUMBER}") (footprint "DFN6_6L_ST")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/f50d36aa-e679-4752-a349-5049e706d270"
+      (reference "FID1") (unit 1) (value "FID") (footprint "FID_ROUND_40_TOP")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/3057fca0-f5d7-432a-860d-df58467607da"
+      (reference "FID2") (unit 1) (value "FID") (footprint "FID_ROUND_40_TOP")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/8102f4f1-1add-4174-8b06-136c63e1b018"
+      (reference "FID3") (unit 1) (value "FID") (footprint "FID_ROUND_40_TOP")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/6cfb5d51-90a6-4731-9242-be58645ea1a6"
+      (reference "J1") (unit 1) (value "${PARTNUMBER}") (footprint "CUI_UJ2-MIBH2-4-SMT")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9da4c380-3cb3-4766-86ab-73bdcc64d87e"
+      (reference "J2") (unit 1) (value "${PARTNUMBER}") (footprint "MOLEX_104031-0811")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/4a3c4d83-efb4-4531-b105-216a18e27406"
+      (reference "L1") (unit 1) (value "${PARTNUMBER}") (footprint "LP_0603_IND")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f33aead8-413e-4c8a-b252-570bc32ea425"
+      (reference "PA01") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/3b0c1639-0c30-46e6-98b3-8b772cb840a3"
+      (reference "PA02") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c1ef5854-5dcf-4d7a-aa4c-87163d505000"
+      (reference "PA03") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/bba5b7d5-d83a-4452-b962-f9fdb06d4d43"
+      (reference "PA04") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c9444eaf-4ab0-45c6-af1f-b3e49107f377"
+      (reference "PA05") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7110fc55-163b-4448-a4a7-0a2df9fb6b9d"
+      (reference "PA06") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f063586d-b700-41e7-985c-2a056af1ab58"
+      (reference "PA07") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/20bf7d2c-1bbb-401c-bd8a-ebc193305fde"
+      (reference "PA08") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/738135d6-f73e-4b24-9062-42c3f2e9f84a"
+      (reference "PA09") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/6e739480-9eb1-4163-8b1f-3f00d21acbe5"
+      (reference "PA10") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a97a839e-c2c7-447c-a9a0-ba4a0fa39d1b"
+      (reference "PA11") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/4a569fca-5e50-4bbb-8780-afccf32b464e"
+      (reference "PA12") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/dee03614-6952-4ee6-b6f1-5178591b25c7"
+      (reference "PA13") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d8d4b8f8-dc4f-4dae-b123-1c39c60187b7"
+      (reference "PA14") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/5cb5e2f6-e1db-4de8-86fe-5a8fbb6992de"
+      (reference "PA15") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d81f0296-45eb-4280-8cfb-090f5b905576"
+      (reference "PA16") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/048abaec-5d66-42af-ab19-89c1899cecd1"
+      (reference "PA17") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a845c5a1-d44c-4b48-8b30-7cb54583d55f"
+      (reference "PA18") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/01a38de2-5183-4a18-b958-3bab9d5008ec"
+      (reference "PA19") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/dfe9358f-a0ea-4cbc-af9c-5573bf8d22e6"
+      (reference "PA20") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/2871d9e9-4f1d-4566-b7b7-2cd33ef1bd50"
+      (reference "PA21") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/84cc9599-3d64-4a62-983f-e7a4ed3bd91c"
+      (reference "PA22") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e94552c4-48af-40bb-8b7e-e557823b08c1"
+      (reference "PA23") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9a590b89-04b3-49c6-9e9d-8e418bec0eec"
+      (reference "PA24") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/6c078304-bf12-4bbd-a834-a66e11c68061"
+      (reference "PA25") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/bb689819-879c-4e70-afeb-7cc181b77b78"
+      (reference "PA26") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/3d49ab0c-8275-48cd-9fdb-35c6927c38fb"
+      (reference "PA27") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e4691781-cc00-42fc-8eb0-02bdcce86735"
+      (reference "PA28") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/44a1a4b1-c1b1-4db3-b3c3-94c9b59de474"
+      (reference "PA29") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/48952e78-d5a2-4b7b-b3b9-b93251daae15"
+      (reference "PA30") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/1632edf1-9e0c-4bf5-a29c-eb7708dbc4bb"
+      (reference "PB01") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d503287c-e7eb-49b3-bb31-030ac12f5387"
+      (reference "PB02") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a84d8509-649b-4d35-bd8a-c27cbe6ba780"
+      (reference "PB03") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/112a0df5-efdf-4380-8fff-abfda35eddae"
+      (reference "PB04") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/3df79eef-a2cb-4a23-8b85-2abfe5ae7793"
+      (reference "PB05") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/be7c5648-bb90-4a14-a6ed-9b11f5d2e575"
+      (reference "PB06") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/687c3b30-645e-4356-94cb-b110851e726a"
+      (reference "PB07") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a7b95b1f-4a0c-417b-bf94-07a16061bd73"
+      (reference "PB08") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/68c13107-49d1-47ee-9294-013a9bfa7058"
+      (reference "PB09") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/159c482d-2e4e-4037-b6d4-d910998509a0"
+      (reference "PB10") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9234730c-f2f5-48a3-b5c8-844f3790b2ed"
+      (reference "PB11") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a267a66b-d718-4926-bc41-4e78bcf1d75e"
+      (reference "PB12") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/ffe3e955-bb8c-49ca-acfa-c1466bab00f6"
+      (reference "PB13") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/ff6bb636-ec25-4da9-9cd5-d824d0ea8d1a"
+      (reference "PB14") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e2f4d1ec-8226-4c5e-a0a4-01f33ecfef21"
+      (reference "PB15") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/61a20a47-5c75-42bd-b507-c82dfbaf414e"
+      (reference "PB16") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c56a67e8-8a6e-469c-863d-75bea16e4727"
+      (reference "PB17") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/45dfb12e-11bb-48a1-86bd-6ad4a0c20dec"
+      (reference "PB18") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7e3de42e-073d-474b-bdf2-6ba285b77a2e"
+      (reference "PB19") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/58f915f3-ec98-43a9-b350-fb34a9b56ae2"
+      (reference "PB20") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e802ce06-607c-413c-9fe7-cd8163f1bd83"
+      (reference "PB21") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c780fdf5-8084-4638-b4ab-5bda2e715856"
+      (reference "PB22") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/03a2dccd-80cf-4336-8947-f1e57b371c12"
+      (reference "PB23") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/8e0ec928-524f-4395-be68-9fe72009fb63"
+      (reference "PB24") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/47c862ef-0996-4812-a045-c7a1270a2620"
+      (reference "PB25") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/94942192-3c28-4b67-9719-5e7df090e5e7"
+      (reference "PB26") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/02762189-47d1-440b-8b08-86e0e24930ec"
+      (reference "PB27") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/6048254e-2e61-45cd-9122-77a5653a6af4"
+      (reference "PB28") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/4452776a-9f2e-41cf-8af2-c41e9d0ab000"
+      (reference "PB29") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/13d4fc65-752d-438d-a94b-6c70faaf58d7"
+      (reference "PB30") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/1668eeb2-9802-4b5b-a96f-5bfcaa95fc3f"
+      (reference "PC01") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/de737474-e2a5-4627-a0eb-cf41b3f4fa70"
+      (reference "PC02") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/71ff4ee9-5d54-461a-b476-9bc0e44813c0"
+      (reference "PC03") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c82e8707-5599-42d8-9574-c3ad31235246"
+      (reference "PC04") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/755cce10-9fe0-4453-9cfd-7c0f1025d879"
+      (reference "PC05") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/8689acd4-b548-4b5d-ad7b-6384f38c1638"
+      (reference "PC06") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e70beda1-91d3-4e4c-aebe-48c7c82357e2"
+      (reference "PC07") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/990b34e8-6079-4c8d-8308-f4510151b5a9"
+      (reference "PC08") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/4e4abe2b-2815-4e3c-87e2-c4da0e441f2a"
+      (reference "PC09") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/347c47ea-5f69-4bcd-b9a7-1e1fde9cc916"
+      (reference "PC10") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/992db6cb-0af7-4665-92e6-d84b1cbbd21e"
+      (reference "PC11") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/76851b40-ef3f-461a-b7c0-ca0702c073b9"
+      (reference "PC12") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7dcd8c9b-5193-418b-a8bb-9e46f2dd6d7c"
+      (reference "PC13") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/63368ce3-81d8-4cd6-8a60-cda001d26fb2"
+      (reference "PC14") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a07ed1ad-2013-4368-acc9-37d8e48a1a0e"
+      (reference "PC15") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/55a2a910-3df3-4e36-870e-54a70d194422"
+      (reference "PC16") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e8770a17-198f-40cc-8285-b263cd538b85"
+      (reference "PC17") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/609a0647-06e1-4534-9362-b9a444a86b33"
+      (reference "PC18") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/59821178-1055-4900-a8d2-902230ca1571"
+      (reference "PC19") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d529a428-fbcf-434a-9812-743db65245a9"
+      (reference "PC20") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/11101295-c369-4e0b-9773-bce2aaa00b5b"
+      (reference "PC21") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/4a1be881-8975-4ac5-b598-cd60286abe3a"
+      (reference "PC22") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/3944690c-70b2-4359-9431-4c6eb6c6cc7c"
+      (reference "PC23") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a7254418-961b-4b4c-9331-94acc1dfbe56"
+      (reference "PC24") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9efa013e-eaed-404c-abba-370a2edd6672"
+      (reference "PC25") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f8fa8ae4-1855-4628-a702-0fdf6b9d8754"
+      (reference "PC26") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/19c248a0-dd00-47e3-b906-1b812e92547f"
+      (reference "PC27") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a4874ea9-ecad-4867-9eff-324bb3e75969"
+      (reference "PC28") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/0c7fd7c1-7dc3-4cf4-832b-47d5c9f9fb89"
+      (reference "PC29") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/2f9a5215-b14f-48ef-b09f-2c5cc0db3a6a"
+      (reference "PC30") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/b0e65332-375e-4ae9-80e3-b6ed491e9ec7"
+      (reference "PD01") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/44a66e5c-9d7e-41d8-9347-e7a08f67e043"
+      (reference "PD02") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/061e31ad-aa93-40fd-9e62-5c7e24877b55"
+      (reference "PD03") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/8e4ed3d0-eb25-42d6-b19b-ed3542a43dcc"
+      (reference "PD04") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/5b34d66b-a880-4bcc-9789-ebdb056f8014"
+      (reference "PD05") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/145f2ceb-dd4d-4fb4-ad62-b73426e8d2ad"
+      (reference "PD06") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/03949eea-cee5-47f9-ae59-dc005eea5d47"
+      (reference "PD07") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9669e007-b92a-4b62-96a6-1463f0a6562b"
+      (reference "PD08") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e3456ea3-e3f8-459b-80b0-019015ad73c2"
+      (reference "PD09") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7bce9c51-fae8-42c9-8353-ca286c9550fc"
+      (reference "PD10") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/97a1eadd-01ea-44bb-a487-ad66af8c0a20"
+      (reference "PD11") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/1c30e86e-0d88-4715-b1c6-48126e102289"
+      (reference "PD12") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/15e7b966-98c7-4c1e-9528-52d17d7819b5"
+      (reference "PD13") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/0c29d37e-55be-48db-8093-ffae7e5071b0"
+      (reference "PD14") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a8d2f8c4-628e-40cb-a7ee-4d0041f187c1"
+      (reference "PD15") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/6d902c4f-f469-4eff-be52-23269dda7f56"
+      (reference "PD16") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/98c7bf6f-714b-4d43-be52-731e8e9570d7"
+      (reference "PD17") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/fd5c9534-8ecc-4677-903d-14ce6e4eb1b2"
+      (reference "PD18") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/1b4e4361-26d5-4937-b718-3c7802acbaab"
+      (reference "PD19") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/eb874d6f-5b39-4af7-90b3-63b65f38bb7c"
+      (reference "PD20") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/74f199fd-3703-40a2-83cf-3c90023193ad"
+      (reference "PD21") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/610069bc-a211-432d-90b0-68bed55a4560"
+      (reference "PD22") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/bc21ca9d-a230-47f3-bf4d-0fe11204b4b0"
+      (reference "PD23") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/f11f471b-ac11-4830-bb9e-47dd38428cdd"
+      (reference "PD24") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/8d8bd8dc-e9b5-4c99-90ef-6eed48e509fc"
+      (reference "PD25") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/ea33f804-d4c3-47fb-97ef-eb0cbee11d8b"
+      (reference "PD26") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/537f5258-81f4-409b-941e-b87b1b4c7f50"
+      (reference "PD27") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7ad4998c-7ea6-4e57-825b-e3f80a3ae4c6"
+      (reference "PD28") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/28ad6915-57d3-4e96-abab-4ff943a819fe"
+      (reference "PD29") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9c835e8d-0b57-4ffa-964b-720306a4e14b"
+      (reference "PD30") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/6fd0cb64-5713-40b3-a799-25c58f9ad5e0"
+      (reference "PGND") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/2c26fe84-1ca9-4f15-8073-7500094c4ba3"
+      (reference "PRXD") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/a8be6403-5064-40fb-9226-5dd0e9cbc689"
+      (reference "PTXD") (unit 1) (value "TP") (footprint "LP_TESTPOINT_TH")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/0f2d40bd-f69f-4287-8e4e-2942c298d0b1"
+      (reference "PZ4") (unit 1) (value "TP") (footprint "LP_TESTPOINT_SMT")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9353be9b-80db-420d-9d04-c3c103bb92ab"
+      (reference "PZ5") (unit 1) (value "TP") (footprint "LP_TESTPOINT_SMT")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/327a29ed-2407-4ac1-b24b-3879b845c1ef"
+      (reference "R1") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/76606047-62b0-4b87-bf10-2f75c064da92"
+      (reference "R2") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d36a06a8-0cbf-491a-b8c5-e72907d1873f"
+      (reference "R3") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/27ca3361-c62b-437a-b518-3c87a3c76098"
+      (reference "R4") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d851e3b8-8aa9-46c6-88f9-9cde3b59e6f5"
+      (reference "R5") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/56c0695c-02be-4e3d-8946-9d0562cd793e"
+      (reference "R6") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/ee79c4fd-1696-431d-b8a6-91d7033d0f2e"
+      (reference "R7") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/a8d18b25-c8d8-43e8-99c5-0a3efa27875f"
+      (reference "R8") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c0b331b8-3ad2-4613-8df3-127cb983ea8e"
+      (reference "R9") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/c0c60119-13af-4f27-92d2-b17a8fdca954"
+      (reference "R10") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/80165557-dc17-4fbb-9180-b9d30b6aa1fd"
+      (reference "R11") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/d748c98b-9549-49f1-bdf3-47216b91c6dd"
+      (reference "R12") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0402_LOW")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/8b0f8514-a2f2-4538-b5ce-cd054a804a9e"
+      (reference "R13") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_LOW")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/acc901fc-426a-4b83-87cf-75798a4d2f8d"
+      (reference "S1") (unit 1) (value "${PARTNUMBER}") (footprint "C&K_PTS810")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/0f0d55d8-ec24-4f63-9701-60de6ba436ee"
+      (reference "S2") (unit 1) (value "${PARTNUMBER}") (footprint "C&K_TDA04")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/e0240cfa-0350-4ecd-9764-73cd5631adf0"
+      (reference "TP1") (unit 1) (value "${PARTNUMBER}") (footprint "TC2050_SITE_NL")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/bcc17cb0-bd53-4126-90a0-ecf3ab7031f4"
+      (reference "U1") (unit 1) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/4896bdf1-4545-4ad3-8cd9-75e45494c9d4"
+      (reference "U1") (unit 2) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/df04f111-325d-41fb-890e-cfa77f4fbec5"
+      (reference "U1") (unit 3) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/edec6b1a-af0c-4de6-8dc9-0931144389d4"
+      (reference "U1") (unit 4) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/29bcffed-194b-4e88-b8d2-02e6ef8f6e42"
+      (reference "U1") (unit 5) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9a4a9e2b-8c8e-4cf0-b5ae-ec9f32958e2b"
+      (reference "U1") (unit 6) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/3cc52ec2-1031-4304-89ee-5cdc6b2cad34"
+      (reference "U1") (unit 7) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/fe5b6e3e-2397-4290-b7a3-37a75eaa8169"
+      (reference "U1") (unit 8) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/7c9897ea-594c-4fe1-8876-fc3ed46fc9b6"
+      (reference "U1") (unit 9) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/9da978c4-68c6-49cc-af60-a18224ae5c34"
+      (reference "U1") (unit 10) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e1f60f90-2568-44a6-b497-5154bcadb470"
+      (reference "U1") (unit 11) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/9bfdf623-de49-4546-b4e7-154b9bc82b09"
+      (reference "U1") (unit 12) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/baf2fd9b-0883-4c25-a3c2-6a5d3ca99a2d"
+      (reference "U1") (unit 13) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/5d5d06c0-9914-4c50-b74e-a787bd13bbd0"
+      (reference "U1") (unit 14) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/ccee3659-f9d1-44eb-9f11-7b0f436cd256"
+      (reference "U1") (unit 15) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/c0e23d0e-5f8e-4269-8d1c-a9e6df4efbfd"
+      (reference "U1") (unit 16) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/455f514d-db77-44df-8e96-cf609393c391"
+      (reference "U1") (unit 17) (value "${PARTNUMBER}") (footprint "BGA_OCTAVO_SIP_OSD32MP157C")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/61d5a340-8ff3-4477-9fee-9bd807aad6e7"
+      (reference "Y1") (unit 1) (value "${FREQUENCY}") (footprint "NDK_CRYSTAL_1.5X3.2")
+    )
+  )
+)

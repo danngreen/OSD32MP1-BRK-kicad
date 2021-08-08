@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "OSD19001_BRK_X2-altium-import")(type "KiCad")(uri "${KIPRJMOD}/OSD19001_BRK_X2-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "OSD19001_CORE-altium-import")(type "KiCad")(uri "${KIPRJMOD}/OSD19001_CORE-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "OSD19001_BREAKOUTS-altium-import")(type "KiCad")(uri "${KIPRJMOD}/OSD19001_BREAKOUTS-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "OSD19001_USB-altium-import")(type "KiCad")(uri "${KIPRJMOD}/OSD19001_USB-altium-import.kicad_sym")(options "")(descr ""))
+)

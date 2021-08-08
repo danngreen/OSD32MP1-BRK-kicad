@@ -8,7 +8,6 @@
   )
 
 
-
   (wire (pts (xy 170.18 157.48) (xy 157.48 157.48))
     (stroke (width 0.254) (type solid) (color 0 0 0 0))
     (uuid 0c7af1f9-5cc4-4a99-b906-b7d13770f5be)
@@ -396,7 +395,7 @@
     (effects (font (size 1.524 1.524) bold) (justify left bottom))
     (uuid 334f4f33-8bd2-46ad-aa1b-650d6f35aca9)
   )
-  (text "Copyright (C) 2020, Octavo Systems, LLC\nIncluding contributions Copyright (C) 2020, Allied Component Works, LLC\nCopyright and related rights are licensed under the Solderpad Hardware License, Version 2.0 (the \"License\"); you may not use any\nelement of this design except in compliance with the License. You may obtain a copy of the License at https://solderpad.org/licenses/SHL-2.0\nUnless required by applicable law or agreed to in writing; software, hardware, and other materials distributed under this License are\ndistributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and limitations.\n\nAdditional Notices To Users -\nThis device is intended for scientific and engineering test and evaluation only.  Furthermore, this device is a component and is not intended to operate independently of a larger system of components.  The user shall assume all responsibility for proper configuration and operation of the device in a system configuration.  This device has NOT been tested for electromagnetic compatibility in any system configuration, because such configurations are beyond the scope of the component design and beyond the control of the manufacturer.  However, operation of any system would still generally be subject to the following two conditions -\nA) The system may not cause harmful interference.\nB) The system must accept any interference received, including interference that my cause undesired operation.\nFinally, while this device is assembled with \"RoHS compliant\" materials, it still should not be disposed of with ordinary refuse, and instead\nit should be presented for proper recycling.\n"
+  (text "Copyright (C) 2020, Octavo Systems, LLC\nIncluding contributions Copyright (C) 2020, Allied Component Works, LLC\nCopyright and related rights are licensed under the Solderpad Hardware License, Version 2.0 (the \"License\"); you may not use any\nelement of this design except in compliance with the License. You may obtain a copy of the License at https://solderpad.org/licenses/SHL-2.0\nUnless required by applicable law or agreed to in writing; software, hardware, and other materials distributed under this License are\ndistributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and limitations.\n\nAdditional Notices To Users -\nThis device is intended for scientific and engineering test and evaluation only.  Furthermore, this device is a component and is not intended \nto operate independently of a larger system of components.  The user shall assume all responsibility for proper configuration and operation \nof the device in a system configuration.  This device has NOT been tested for electromagnetic compatibility in any system configuration, because \nsuch configurations are beyond the scope of the component design and beyond the control of the manufacturer.  However, operation of any system \nwould still generally be subject to the following two conditions -\nA) The system may not cause harmful interference.\nB) The system must accept any interference received, including interference that my cause undesired operation.\nFinally, while this device is assembled with \"RoHS compliant\" materials, it still should not be disposed of with ordinary refuse, and instead\nit should be presented for proper recycling.\n"
     (at 119.38 269.24 0)
     (effects (font (size 1.143 1.143)) (justify left bottom))
     (uuid 9477cee7-702b-4b88-bee1-6cb27f0c3950)
@@ -571,6 +570,30 @@
   )
 
   (symbol_instances
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/1b8db12a-b29f-4c08-9d2c-002caf347104"
+      (reference "#FLG0101") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/208285f7-d386-418c-9ecb-7d265f720a8f"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/caf40fc9-3d42-463e-9c1a-f4b9ac642202"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/8283f89e-dd10-4879-b16c-29ddb822899d"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/d541d2b8-da5b-4e9c-a9b5-b7d1cd6593c2"
+      (reference "#FLG0105") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/a7f10532-55df-4edb-aa8b-29a0dd4b18df"
+      (reference "#FLG0106") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/fd50e453-c334-4b90-8cc9-ad64758375c6"
+      (reference "#FLG0107") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/9ba96917-1dcc-4a46-946e-18d547001524"
+      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/25634b40-ce1c-4245-bbb6-c8e0558e7281"
       (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -708,6 +731,30 @@
     )
     (path "/f3afc1a7-c14e-4b48-8670-27488c562a4a/6447a2ab-ada6-44ee-895a-6d5a9786fc2f"
       (reference "#PWR046") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/e94ac0ba-6024-4e0e-b090-8eedad7d6b5a"
+      (reference "#PWR0101") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/54a71412-1f66-442b-ba5a-c86d2c914957"
+      (reference "#PWR0102") (unit 1) (value "+VBST") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/966eddb2-1f00-4dfb-b11a-5807b7c57f9b"
+      (reference "#PWR0103") (unit 1) (value "+VSW") (footprint "")
+    )
+    (path "/936a9399-2beb-4c0f-a384-f4f569c3421c/5696fe45-d77c-4405-af1f-ff3661016bb7"
+      (reference "#PWR0104") (unit 1) (value "+VLDO2") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/6ac1d058-acb3-476e-aedf-aa679826a4c9"
+      (reference "#PWR0105") (unit 1) (value "+VIN") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/2713f64a-fc92-43ac-a1bd-41e7fce92803"
+      (reference "#PWR0106") (unit 1) (value "+VBAT") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/25323454-b9dc-49ed-8345-68ce9253c1cd"
+      (reference "#PWR0107") (unit 1) (value "VDDI") (footprint "")
+    )
+    (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/98681640-6dad-44dd-bf30-a76b4b6f174c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/cf04b884-f95a-4479-b921-1dc74807d66c"
       (reference "C1") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")

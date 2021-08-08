@@ -1,0 +1,12 @@
+(footprint "LP_TESTPOINT_TH" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 1.585478 -0.567007 -90 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp 8e499b5d-9402-40ed-a0dc-f252b9b3a16f)
+  )
+  (fp_text value "TP" (at -3.1115 -0.5715 -90 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp 8662f6db-24b5-4420-b82e-8e61fab13c1d)
+  )
+  (pad "1" thru_hole circle (at 0 0 180) (size 1.651 1.651) (drill 0.889) (layers *.Cu *.Mask) (tstamp c80a061a-2a49-4673-a467-6fb6fb1bb289))
+)

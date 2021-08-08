@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OSD19001_BRK_X2")(type "KiCad")(uri "${KIPRJMOD}/OSD19001_BRK_X2.pretty")(options "")(descr ""))
+)

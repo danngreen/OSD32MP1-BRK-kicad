@@ -1,0 +1,12 @@
+(footprint "FID_ROUND_40_TOP" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 1.3335 -0.2921 -90 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp 0556e3d6-ee21-4a89-9204-79cc2f234029)
+  )
+  (fp_text value "FID" (at -2.8321 -0.2921 -90 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
+    (tstamp 0eb7077a-dceb-4401-beb1-1fd1891e2f99)
+  )
+  (pad "1" smd circle (at 0 0 180) (size 1.016 1.016) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3d68357e-8924-4534-b476-3acdaff34411))
+)

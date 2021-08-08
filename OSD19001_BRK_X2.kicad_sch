@@ -592,7 +592,7 @@
       (reference "#FLG0107") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/9ba96917-1dcc-4a46-946e-18d547001524"
-      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+      (reference "#FLG0108") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/25634b40-ce1c-4245-bbb6-c8e0558e7281"
       (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
@@ -754,7 +754,7 @@
       (reference "#PWR0107") (unit 1) (value "VDDI") (footprint "")
     )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/98681640-6dad-44dd-bf30-a76b4b6f174c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
     )
     (path "/df01931a-4cd1-470d-9fe8-191b6ea8345c/cf04b884-f95a-4479-b921-1dc74807d66c"
       (reference "C1") (unit 1) (value "${ALTIUM_VALUE}") (footprint "LP_0603_HIGH")

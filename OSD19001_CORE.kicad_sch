@@ -2230,7 +2230,6 @@
     )
   )
 
-
   (junction (at 35.56 76.2) (diameter 1.016) (color 0 0 0 0))
   (junction (at 60.96 76.2) (diameter 1.016) (color 0 0 0 0))
   (junction (at 60.96 78.74) (diameter 1.016) (color 0 0 0 0))
@@ -3838,7 +3837,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 91.44 271.78 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9ba96917-1dcc-4a46-946e-18d547001524)
-    (property "Reference" "#FLG?" (id 0) (at 91.44 269.875 0)
+    (property "Reference" "#FLG0108" (id 0) (at 91.44 269.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (id 1) (at 91.44 266.7 0))
@@ -4202,7 +4201,7 @@
   (symbol (lib_id "OSD19001_CORE-altium-import:GND") (at 100.33 271.78 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 98681640-6dad-44dd-bf30-a76b4b6f174c)
-    (property "Reference" "#PWR?" (id 0) (at 100.33 271.78 0)
+    (property "Reference" "#PWR0108" (id 0) (at 100.33 271.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 100.33 278.13 0)

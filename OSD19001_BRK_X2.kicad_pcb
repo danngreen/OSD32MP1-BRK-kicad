@@ -3841,7 +3841,7 @@
   (footprint "ACWPrimitives.IntLib:LP_TESTPOINT_TH" (layer "F.Cu")
     (tedit 0) (tstamp e7a3fe59-b335-4a62-ae00-9c7681475445)
     (at 167.551099 83.413597 90)
-    (fp_text reference "PC07" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
+    (fp_text reference "PC7" (at 1.636278 -0.617807 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
       (tstamp 4f9fb94d-6ae9-4817-867c-a5cfd18c62f8)
     )
